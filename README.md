@@ -22,6 +22,7 @@
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
+* https://github.com/pocmo/recompose -  a tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
 
 ## Libraries
@@ -34,6 +35,7 @@
 *  [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
 * [JetExample](https://github.com/gastsail/JetExample)
+* [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
 
 ## Articles
 
@@ -42,3 +44,9 @@
 ## Extras
 
 * 
+
+
+
+## Find this repository useful? ❤️
+
+Support it by joining stargazers for this repository. ⭐
