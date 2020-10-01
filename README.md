@@ -1,4 +1,4 @@
-![Image](./banner.png)
+![Jetpack Compose](./images/logo.png)
 
 ## Contents
 
