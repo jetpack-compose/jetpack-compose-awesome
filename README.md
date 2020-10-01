@@ -1,4 +1,4 @@
-![Image](banner.png)
+![Image](https://raw.githubusercontent.com/jetpack-compose/jetpack-compose-awesome/master/banner.png)
 
 ## Contents
 
