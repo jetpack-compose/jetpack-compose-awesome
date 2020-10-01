@@ -22,7 +22,7 @@
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
-* https://github.com/pocmo/recompose -  a tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
+* [recompose](https://github.com/pocmo/recompose) -  a tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
 
 ## Libraries
