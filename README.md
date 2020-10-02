@@ -15,14 +15,14 @@
 
 ## 🔥 News/Updates
 
-
+* 26 August - [Jetpack Compose Alpha!](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
 
 ##  Docs/Tools
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
-* [recompose](https://github.com/pocmo/recompose) -  a tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
+* [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
 
 ## Libraries
@@ -36,6 +36,8 @@
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
 * [JetExample](https://github.com/gastsail/JetExample)
 * [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
+* [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
+* [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
 
 ## Articles
 
