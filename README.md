@@ -33,12 +33,13 @@
 ## App Projects
 
 * [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
-*  [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
+* [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
 * [JetExample](https://github.com/gastsail/JetExample)
 * [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
 * [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
+* [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using compose and Hilt based on modern Android tech-stacks and MVVM architecture. Fetching data from the network and integrating persisted data in the database via repository pattern. Declarative UI version of the DisneyMotions using compose. 
 
 ## Articles
 
