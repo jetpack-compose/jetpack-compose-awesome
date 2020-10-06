@@ -39,7 +39,7 @@
 * [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
 * [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
-* [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using compose and Hilt based on modern Android tech-stacks and MVVM architecture. Fetching data from the network and integrating persisted data in the database via repository pattern. Declarative UI version of the DisneyMotions using compose. 
+* [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
 
 ## Articles
 
