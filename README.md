@@ -11,8 +11,6 @@
 - [Videos](#videos)
 - [Extras](#extras)
 
-
-
 ## 🔥 News/Updates
 
 * 26 August - [Jetpack Compose Alpha!](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
@@ -41,6 +39,7 @@
 * [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
 * [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
+- [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
 
 ## Articles
 
