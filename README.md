@@ -46,11 +46,15 @@
 * [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
 * [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
 
+## Videos
+
+- [Compose by example](https://youtu.be/DDd6IOlH3io)
+- [Thinking in Compose](https://youtu.be/SMOhl9RK0BA)
+- [Thinking in Compose](https://youtu.be/SMOhl9RK0BA)
+- [Compose for existing apps](https://youtu.be/PjQdFmiDgwk)
+- [What's new in Compose Design Tools](https://youtu.be/exjL2kGPngI)
+
 ## Extras
-
-* 
-
-
 
 ## Find this repository useful? ❤️
 
