@@ -4,10 +4,10 @@
 
 - [News/Updates](#newsupdates)
 - [Official documentation](#official-documentation)
+- [Articles](#articles)
 - [Tools](#tools)
 - [Libraries](#libraries)
 - [App Projects](#app-projects)
-- [Articles](#articles)
 - [Videos](#videos)
 - [Extras](#extras)
 
@@ -23,6 +23,11 @@
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
 * [Shot](https://github.com/Karumi/Shot) - Jetpack Compose screenshot testing tool
+
+## Articles
+
+* [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050
+* [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 
 ## Libraries
 
@@ -40,10 +45,6 @@
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
 * [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
 * [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
-
-## Articles
-
-* 
 
 ## Extras
 
