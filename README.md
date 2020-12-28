@@ -79,6 +79,8 @@
 
 ## Videos
 
+- 📺 [Leland Richardson's channel about Compose](https://www.youtube.com/c/LelandRichardsonDev/videos)
+
 - [Compose by example](https://youtu.be/DDd6IOlH3io)
 - [Thinking in Compose](https://youtu.be/SMOhl9RK0BA)
 - [Thinking in Compose](https://youtu.be/SMOhl9RK0BA)
