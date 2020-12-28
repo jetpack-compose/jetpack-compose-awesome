@@ -13,7 +13,8 @@
 
 ## 🔥 News/Updates
 
-* 26 August - [Jetpack Compose Alpha!](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
+* November 5, 2020 - [Jetpack Compose for Desktop: Milestone 1 Released](https://blog.jetbrains.com/cross-post/jetpack-compose-for-desktop-milestone-1-released)
+* 26 August, 2020 - [Jetpack Compose Alpha!](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
 
 ##  Docs/Tools
 
@@ -23,6 +24,8 @@
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
 * [Shot](https://github.com/Karumi/Shot) - Jetpack Compose screenshot testing tool
+* [Radiography](https://developer.squareup.com/blog/introducing-radiography) - UI structure printer
+- [Showkase](https://github.com/airbnb/Showkase) - Helps you organize, discover, search and visualize Jetpack Compose UI elements
 
 ## Articles
 
@@ -30,6 +33,7 @@
 * [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 * [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 - [Building an exploding fab transition with Jetpack Compose](https://joebirch.co/category/android/)
+- [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
 
 ### Exporing JetPack Compose
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
@@ -58,7 +62,8 @@
 ## Libraries
 
 * [accompanist](https://github.com/chrisbanes/accompanist) -  A collection of extension libraries for Jetpack Compose
-* [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack 
+* [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
+* [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
 
 ## App Projects
 
