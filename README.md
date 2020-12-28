@@ -20,6 +20,7 @@
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
+* [Compose Academy](https://compose.academy) - Jetpack Compose Reference
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
@@ -34,6 +35,7 @@
 * [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 - [Building an exploding fab transition with Jetpack Compose](https://joebirch.co/category/android/)
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
+- [Intro to animations with Jetpack Compose](https://proandroiddev.com/rotating-pokeball-animation-with-jetpack-compose-e3e839782cba)
 
 ### Exporing JetPack Compose
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
@@ -76,6 +78,10 @@
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
 * [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
 * [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
+
+## Other projects
+
+- [ComposeClock](https://github.com/adibfara/ComposeClock)
 
 ## Videos
 
