@@ -5,6 +5,9 @@
 - [News/Updates](#newsupdates)
 - [Official documentation](#official-documentation)
 - [Articles](#articles)
+  - [Navigation](#navigation)
+  - [Animations][#animations]
+  - [Interop](#interop)
 - [Tools](#tools)
 - [Libraries](#libraries)
 - [App Projects](#app-projects)
@@ -35,8 +38,19 @@
 * [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 * [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 - [Building an exploding fab transition with Jetpack Compose](https://joebirch.co/category/android/)
+
+
+### Navigation
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
+
+### Animations
 - [Intro to animations with Jetpack Compose](https://proandroiddev.com/rotating-pokeball-animation-with-jetpack-compose-e3e839782cba)
+
+### Interop
+
+- [Jetpack Compose Interop Part 1](https://proandroiddev.com/jetpack-compose-interop-part-1-using-traditional-views-and-layouts-in-compose-with-androidview-b6f1b1c3eb1)
+- [Jetpack Compose Interop Part 1](https://proandroiddev.com/jetpack-compose-interop-part-2-using-compose-in-traditional-android-views-and-layouts-with-a3c50fc2eaa5)
+- [Jetpack Compose View & Android View Comparison](https://medium.com/mobile-app-development-publication/jetpack-compose-view-android-view-comparison-52005ac64b8c)
 
 ### Exporing JetPack Compose
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
