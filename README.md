@@ -38,7 +38,7 @@
 * [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 * [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 - [Building an exploding fab transition with Jetpack Compose](https://joebirch.co/category/android/)
-
+- [Code Simple Android Jetpack Compose Drawing App](https://levelup.gitconnected.com/code-simple-android-jetpack-compose-drawing-app-886d1146ad20)
 
 ### Navigation
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
