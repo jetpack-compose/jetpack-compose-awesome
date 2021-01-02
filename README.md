@@ -6,7 +6,7 @@
 - [Official documentation](#official-documentation)
 - [Articles](#articles)
   - [Navigation](#navigation)
-  - [Animations][#animations]
+  - [Animations](#animations)
   - [Interop](#interop)
 - [Tools](#tools)
 - [Libraries](#libraries)
