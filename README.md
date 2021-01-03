@@ -85,6 +85,7 @@
 ## App Projects
 
 * [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
+- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground)
 * [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
 * [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
 * [JetExample](https://github.com/gastsail/JetExample)
@@ -93,6 +94,7 @@
 * [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
 * [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
 * [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
+- [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
 
 ## Other projects
 
