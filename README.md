@@ -1,5 +1,7 @@
 ![Jetpack Compose](./images/logo.png)
 
+📝 A curated list of awesome JetpackCompose libraries, projects, articles and resources.
+
 ## Contents
 
 - [News/Updates](#newsupdates)
@@ -49,7 +51,7 @@
 ### Interop
 
 - [Jetpack Compose Interop Part 1](https://proandroiddev.com/jetpack-compose-interop-part-1-using-traditional-views-and-layouts-in-compose-with-androidview-b6f1b1c3eb1)
-- [Jetpack Compose Interop Part 1](https://proandroiddev.com/jetpack-compose-interop-part-2-using-compose-in-traditional-android-views-and-layouts-with-a3c50fc2eaa5)
+- [Jetpack Compose Interop Part 2](https://proandroiddev.com/jetpack-compose-interop-part-2-using-compose-in-traditional-android-views-and-layouts-with-a3c50fc2eaa5)
 - [Jetpack Compose View & Android View Comparison](https://medium.com/mobile-app-development-publication/jetpack-compose-view-android-view-comparison-52005ac64b8c)
 
 ### Exporing JetPack Compose
