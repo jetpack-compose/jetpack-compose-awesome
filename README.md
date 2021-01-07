@@ -47,7 +47,12 @@
 - [Android Jetpack Compose: Remember Made Easy](https://medium.com/mobile-app-development-publication/android-jetpack-compose-remember-made-easy-8bd86a48536c)
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
 - [StaggeredVerticalGrid of Android Jetpack Compose](https://medium.com/mobile-app-development-publication/staggeredverticalgrid-of-android-jetpack-compose-fa565e5363e1)
-- []()
+- [Jetpack Compose Effect Handlers](https://jorgecastillo.dev/jetpack-compose-effect-handlers)
+- [Getting our apps ready for Jetpack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose/)
+
+### Getting started
+
+- [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/15361077-jetpack-compose-tutorial-for-android-getting-started)
 
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
@@ -55,6 +60,7 @@
 
 ### Navigation
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
+- [Jetpack Compose: Navigation](https://www.rockandnull.com/jetpack-compose-navigation/)
 - [Passing multi typed data between screens with Jetpack Compose navigation component](https://proandroiddev.com/passing-multi-typed-data-between-screens-with-jetpack-compose-navigation-component-39ccbcf901ff)
 - [Passing string typed data with Jetpack Compose navigation component](https://proandroiddev.com/passing-string-typed-data-with-jetpack-compose-navigation-component-fd4759acd906)
 
@@ -67,6 +73,10 @@
 - [Jetpack Compose Interop Part 1](https://proandroiddev.com/jetpack-compose-interop-part-1-using-traditional-views-and-layouts-in-compose-with-androidview-b6f1b1c3eb1)
 - [Jetpack Compose Interop Part 2](https://proandroiddev.com/jetpack-compose-interop-part-2-using-compose-in-traditional-android-views-and-layouts-with-a3c50fc2eaa5)
 - [Jetpack Compose View & Android View Comparison](https://medium.com/mobile-app-development-publication/jetpack-compose-view-android-view-comparison-52005ac64b8c)
+
+### Migration
+
+- [Jetpack Compose migration course](https://developer.android.com/courses/pathways/compose)
 
 ### Exporing JetPack Compose
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
@@ -92,24 +102,30 @@
 - [Modal Drawer Layout](https://joebirch.co/android/exploring-jetpack-compose-modal-drawer-layout/)
 - [TopAppBar](https://joebirch.co/android/exploring-jetpack-compose-topappbar/)
 
+
+### Cross-platform
+- [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
+
 ## Libraries
 
-* [accompanist](https://github.com/chrisbanes/accompanist) -  A collection of extension libraries for Jetpack Compose
-* [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
-* [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
+- [accompanist](https://github.com/chrisbanes/accompanist) -  A collection of extension libraries for Jetpack Compose
+- [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
+- [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
+- [Landscapist](https://github.com/skydoves/Landscapist) - image loading uding Glide, Coil, Fresco
 
 ## App Projects
 
-* [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
+- [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
 - [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground)
-* [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
-* [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
-* [JetExample](https://github.com/gastsail/JetExample)
-* [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
-* [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
-* [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
-* [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
-* [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
+- [sunflower](https://github.com/android/sunflower/tree/compose) - Sample app by Google
+- [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
+- [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
+- [JetExample](https://github.com/gastsail/JetExample)
+- [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
+- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
+- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
+- [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
+- [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
 - [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
 
 ## Other projects
