@@ -2,7 +2,7 @@
 
 📝 A curated list of awesome JetpackCompose libraries, projects, articles and resources.
 
-**See also:** [Android Developer Reference](https://github.com/jetpack-compose/jetpack-compose-awesome)
+**See also:** [Android Developer Reference](https://github.com/ImangazalievM/android-developer-reference)
 
 ## Contents
 
