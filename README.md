@@ -26,12 +26,15 @@
 * November 5, 2020 - [Jetpack Compose for Desktop: Milestone 1 Released](https://blog.jetbrains.com/cross-post/jetpack-compose-for-desktop-milestone-1-released)
 * 26 August, 2020 - [Jetpack Compose Alpha!](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
 
-##  Docs/Tools
+##  Docs
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
 * [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
+* [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
 * [Compose Academy](https://compose.academy) - Jetpack Compose Reference
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
+
+## Tools
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
 * [Shot](https://github.com/Karumi/Shot) - Jetpack Compose screenshot testing tool
@@ -43,8 +46,8 @@
 
 - [Diving into Jetpack Compose](https://engineering.q42.nl/android-jetpack-compose/)
 - [Android Jetpack Compose Review](https://blog.karumi.com/android-jetpack-compose-review)
-* [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
-* [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
+- [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
+- [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
 - [Building an exploding fab transition with Jetpack Compose](https://joebirch.co/category/android/)
 - [Code Simple Android Jetpack Compose Drawing App](https://levelup.gitconnected.com/code-simple-android-jetpack-compose-drawing-app-886d1146ad20)
 - [RecyclerView and LazyColumnFor in Jetpack Compose](https://medium.com/mobile-app-development-publication/recyclerview-and-lazycolumnfor-in-jetpack-compose-a7842cd7f17e)
@@ -52,7 +55,6 @@
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
 - [StaggeredVerticalGrid of Android Jetpack Compose](https://medium.com/mobile-app-development-publication/staggeredverticalgrid-of-android-jetpack-compose-fa565e5363e1)
 - [Jetpack Compose Effect Handlers](https://jorgecastillo.dev/jetpack-compose-effect-handlers)
-- [Getting our apps ready for Jetpack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose/)
 
 ### Getting started
 
@@ -61,6 +63,7 @@
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
 - [Building a Design System implementation using Jetpack Compose — Part2 (Component)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part2-d965880292b0)
+- [How to create realistic UI with Jetpack Compose(Part II)](https://medium.com/mindful-engineering/how-to-create-simple-ui-with-jetpack-compose-part-ii-1c14148b7ffe)
 
 ### Navigation
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
@@ -79,8 +82,13 @@
 - [Jetpack Compose View & Android View Comparison](https://medium.com/mobile-app-development-publication/jetpack-compose-view-android-view-comparison-52005ac64b8c)
 
 ### Migration
-
+- [Getting our apps ready for Jetpack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
 - [Jetpack Compose migration course](https://developer.android.com/courses/pathways/compose)
+
+### Canvas
+
+- [Using shapes in Jetpack Compose](https://dev.to/tkuenneth/using-shapes-in-jetpack-compose-3ggb?utm_source=dormosheio&utm_campaign=dormosheio)
+- [Drawing and painting in Jetpack Compose #1](https://dev.to/tkuenneth/drawing-and-painting-in-jetpack-compose-1-2okl)
 
 ### Exporing JetPack Compose
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
