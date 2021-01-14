@@ -136,7 +136,6 @@
 - [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
 - [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
-- [DisneyCompose](https://github.com/skydoves/DisneyCompose) - A demo Disney app using Compose, Hilt, Android tech-stacks and MVVM.
 - [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
 - [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
 
