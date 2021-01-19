@@ -56,6 +56,7 @@
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
 - [StaggeredVerticalGrid of Android Jetpack Compose](https://medium.com/mobile-app-development-publication/staggeredverticalgrid-of-android-jetpack-compose-fa565e5363e1)
 - [Jetpack Compose Effect Handlers](https://jorgecastillo.dev/jetpack-compose-effect-handlers)
+- [Expandable lists in Jetpack Compose](https://skyyo.medium.com/expandable-lists-in-jetpack-compose-b0b78c767b4)
 
 ### Getting started
 
