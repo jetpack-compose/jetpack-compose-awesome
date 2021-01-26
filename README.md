@@ -124,7 +124,6 @@
 
 - [accompanist](https://github.com/chrisbanes/accompanist) -  A collection of extension libraries for Jetpack Compose
 - [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
-- [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
 - [Landscapist](https://github.com/skydoves/Landscapist) - image loading uding Glide, Coil, Fresco
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 
