@@ -68,6 +68,7 @@
 - [How to create realistic UI with Jetpack Compose(Part II)](https://medium.com/mindful-engineering/how-to-create-simple-ui-with-jetpack-compose-part-ii-1c14148b7ffe)
 
 ### Navigation
+- [compose-backstack](https://github.com/zach-klippenstein/compose-backstack)
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
 - [Jetpack Compose: Navigation](https://www.rockandnull.com/jetpack-compose-navigation/)
 - [Passing multi typed data between screens with Jetpack Compose navigation component](https://proandroiddev.com/passing-multi-typed-data-between-screens-with-jetpack-compose-navigation-component-39ccbcf901ff)
