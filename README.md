@@ -163,6 +163,8 @@
 
 ## Extras
 
+[Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) - Community-driven collection of Jetpack Compose example code and tutorials 🚀
+
 ## Find this repository useful? ❤️
 
 Support it by joining stargazers for this repository. ⭐
