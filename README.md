@@ -127,7 +127,8 @@
 - [Landscapist](https://github.com/skydoves/Landscapist) - image loading uding Glide, Coil, Fresco
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [compose-icons](https://github.com/DevSrSouza/compose-icons) - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
-
+- [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
+- 
 ## App Projects
 
 - [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
