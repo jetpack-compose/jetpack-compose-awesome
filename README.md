@@ -36,7 +36,8 @@ Announcing Jetpack Compose Beta!
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
 * [Compose Academy](https://compose.academy) - Jetpack Compose Reference
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
-
+* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
+ 
 ## Tools
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
 * [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
@@ -130,7 +131,7 @@ Announcing Jetpack Compose Beta!
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [compose-icons](https://github.com/DevSrSouza/compose-icons) - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
-- 
+
 ## App Projects
 
 - [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
