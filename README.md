@@ -6,8 +6,8 @@
 
 ## Contents
 
-- [News/Updates](#newsupdates)
-- [Official documentation](#official-documentation)
+- [News/Updates](#-newsupdates)
+- [Official documentation](#docs)
 - [Articles](#articles)
   - [Getting started](#getting-started)
   - [Styling](#styling)
