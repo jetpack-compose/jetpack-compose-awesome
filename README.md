@@ -18,7 +18,7 @@
 - [Tools](#tools)
 - [Libraries](#libraries)
 - [App Projects](#app-projects)
-- [Compose Desctop Projects](#compose-desctop-projects)
+- [Compose Desktop Projects](#compose-desktop-projects)
 - [Videos](#videos)
 - [Extras](#extras)
 
