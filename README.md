@@ -132,6 +132,7 @@ Announcing Jetpack Compose Beta!
 - [compose-icons](https://github.com/DevSrSouza/compose-icons) - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
+- [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
 
 ## App Projects
 
