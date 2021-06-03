@@ -133,6 +133,7 @@ Announcing Jetpack Compose Beta!
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
+- [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
 
 ## App Projects
 
