@@ -134,6 +134,8 @@ Announcing Jetpack Compose Beta!
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
+- [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
+- [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
 
 ## App Projects
 
