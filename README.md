@@ -136,6 +136,7 @@ Announcing Jetpack Compose Beta!
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
 - [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
+- [Decompose](https://github.com/arkivanov/Decompose) - Kotlin Multiplatform lifecycle-aware business logic components with routing functionality and pluggable UI
 
 ## App Projects
 
