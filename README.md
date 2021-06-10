@@ -154,6 +154,7 @@ Announcing Jetpack Compose Beta!
 
 ## Compose Desctop Projects
 
+- [Compose JB](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web
 - [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop)
 
 ## Other projects
