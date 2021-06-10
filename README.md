@@ -24,6 +24,7 @@
 
 ## 🔥 News/Updates
 Announcing Jetpack Compose Beta!
+* 4 May, 2021 - [Technology Preview: Jetpack Compose for Web](https://blog.jetbrains.com/kotlin/2021/05/technology-preview-jetpack-compose-for-web/)
 * 24 March, 2021 - [Accompanist v0.7.0 release](https://github.com/google/accompanist/releases/tag/v0.7.0)
 * 24 February, 2021 - Jetpack Compose in Beta!
 * 5 November, 2020 - [Jetpack Compose for Desktop: Milestone 1 Released](https://blog.jetbrains.com/cross-post/jetpack-compose-for-desktop-milestone-1-released)
@@ -69,12 +70,17 @@ Announcing Jetpack Compose Beta!
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
 - [Building a Design System implementation using Jetpack Compose — Part2 (Component)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part2-d965880292b0)
 - [How to create realistic UI with Jetpack Compose(Part II)](https://medium.com/mindful-engineering/how-to-create-simple-ui-with-jetpack-compose-part-ii-1c14148b7ffe)
-
+- [Jetpack Compose: Styles and Themes (Part II)](https://www.waseefakhtar.com/android/jetpack-compose-styles-and-themes/)
+ 
 ### Navigation
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
 - [Jetpack Compose: Navigation](https://www.rockandnull.com/jetpack-compose-navigation/)
 - [Passing multi typed data between screens with Jetpack Compose navigation component](https://proandroiddev.com/passing-multi-typed-data-between-screens-with-jetpack-compose-navigation-component-39ccbcf901ff)
 - [Passing string typed data with Jetpack Compose navigation component](https://proandroiddev.com/passing-string-typed-data-with-jetpack-compose-navigation-component-fd4759acd906)
+- [Jetpack Compose: Navigating to a Detail View (Part III)](https://www.waseefakhtar.com/android/jetpack-compose-navigating-to-a-detail-view/)
+
+### Lists/RecyclerView
+- [Jetpack Compose: An easy way to RecyclerView (Part I)](https://www.waseefakhtar.com/android/recyclerview-in-jetpack-compose/)
 
 ### Animations
 - [Intro to animations with Jetpack Compose](https://proandroiddev.com/rotating-pokeball-animation-with-jetpack-compose-e3e839782cba)
