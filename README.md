@@ -23,12 +23,10 @@
 - [Extras](#extras)
 
 ## 🔥 News/Updates
-Announcing Jetpack Compose Beta!
+
 * 4 May, 2021 - [Technology Preview: Jetpack Compose for Web](https://blog.jetbrains.com/kotlin/2021/05/technology-preview-jetpack-compose-for-web/)
 * 24 March, 2021 - [Accompanist v0.7.0 release](https://github.com/google/accompanist/releases/tag/v0.7.0)
 * 24 February, 2021 - Jetpack Compose in Beta!
-* 5 November, 2020 - [Jetpack Compose for Desktop: Milestone 1 Released](https://blog.jetbrains.com/cross-post/jetpack-compose-for-desktop-milestone-1-released)
-* 26 August, 2020 - [Jetpack Compose Alpha!](https://android-developers.googleblog.com/2020/08/announcing-jetpack-compose-alpha.html)
 
 ##  Docs
 
