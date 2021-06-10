@@ -119,7 +119,6 @@ Announcing Jetpack Compose Beta!
 - [Modal Drawer Layout](https://joebirch.co/android/exploring-jetpack-compose-modal-drawer-layout/)
 - [TopAppBar](https://joebirch.co/android/exploring-jetpack-compose-topappbar/)
 
-
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
 
@@ -137,7 +136,13 @@ Announcing Jetpack Compose Beta!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
 - [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
 
-## App Projects
+### UI
+
+[compose-richtext](https://github.com/zach-klippenstein/compose-richtext) - A collection of Compose libraries for advanced text formatting.
+
+### Architecture
+
+## Projects
 
 - [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
 - [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground)
@@ -151,6 +156,7 @@ Announcing Jetpack Compose Beta!
 - [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
 - [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
 - [Facebook-Timeline-Compose-Android](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android)
+- [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar
 
 ## Compose Desctop Projects
 
