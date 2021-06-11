@@ -157,7 +157,7 @@
 - [jetpuppy](https://github.com/ericktijerou/jetpuppy) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
 - [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
-- [JetExample](https://github.com/gastsail/JetExample)
+- [JetExample](https://github.com/gastsail/JetExample) - Jetpack Compose UI components examples
 - [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
 - [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
