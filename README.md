@@ -117,7 +117,6 @@
 - [Radio Button](https://joebirch.co/android/exploring-jetpack-compose-radio-button/)
 - [Card](https://joebirch.co/android/exploring-jetpack-compose-card)
 - [Snackbar](https://joebirch.co/android/exploring-jetpack-compose-snackbar/)
-- [FlexColumn & FlexRow](https://joebirch.co/android/exploring-jetpack-compose-flexcolumn-flexrow/)
 - [`@Preview` annotation](https://joebirch.co/android/exploring-jetpack-compose-preview-annotation)
 - [Android View](https://joebirch.co/android/exploring-jetpack-compose-android-view)
 - [Floating Action Button](https://joebirch.co/android/exploring-jetpack-compose-floating-action-button/)
