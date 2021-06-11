@@ -152,6 +152,9 @@
 - [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
 - [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground)
 - [sunflower](https://github.com/android/sunflower/tree/compose) - Sample app by Google
+- [flux](https://github.com/fidloo/flux) - A fake weather app
+- [Wiggles](https://github.com/topics/androiddevchallenge-compose) - Beautiful Puppy adoption app with Jetpack Compose
+- [jetpuppy](https://github.com/ericktijerou/jetpuppy) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
 - [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
 - [JetExample](https://github.com/gastsail/JetExample)
@@ -162,6 +165,7 @@
 - [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
 - [Facebook-Timeline-Compose-Android](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android)
 - [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar
+- [jettimer](https://github.com/ericktijerou/jettimer) - Timer app clone built with Jetpack Compose and Hilt
 
 ## Compose Desctop Projects
 
