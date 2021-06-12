@@ -24,27 +24,28 @@
 
 ## 🔥 News/Updates
 
-* 1 June, 2021 - [Compose for Desktop: Milestone 4 Released](https://blog.jetbrains.com/kotlin/2021/06/compose-for-desktop-milestone-4-released/)
-* 4 May, 2021 - [Technology Preview: Jetpack Compose for Web](https://blog.jetbrains.com/kotlin/2021/05/technology-preview-jetpack-compose-for-web/)
-* 24 March, 2021 - [Accompanist v0.7.0 release](https://github.com/google/accompanist/releases/tag/v0.7.0)
-* 24 February, 2021 - Jetpack Compose in Beta!
+- 1 June, 2021 - [Compose for Desktop: Milestone 4 Released](https://blog.jetbrains.com/kotlin/2021/06/compose-for-desktop-milestone-4-released/)
+- 4 May, 2021 - [Technology Preview: Jetpack Compose for Web](https://blog.jetbrains.com/kotlin/2021/05/technology-preview-jetpack-compose-for-web/)
+- 24 March, 2021 - [Accompanist v0.7.0 release](https://github.com/google/accompanist/releases/tag/v0.7.0)
+- 24 February, 2021 - Jetpack Compose in Beta!
 
-##  Docs
+## Docs
 
-* [Jetpack Compose](https://developer.android.com/jetpack/compose)
-* [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
-* [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
-* [Compose Academy](https://compose.academy) - Jetpack Compose Reference
-* [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
-* [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
- 
+- [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
+- [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
+- [Compose Academy](https://compose.academy) - Jetpack Compose Reference
+- [Jetpack Compose App](https://jetpackcompose.app/) - Comparison of existing UI widgets and Jetpack Compose
+- [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
+
 ## Tools
-* [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
-* [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
-* [Shot](https://github.com/Karumi/Shot) - Jetpack Compose screenshot testing tool
-* [Radiography](https://developer.squareup.com/blog/introducing-radiography) - UI structure printer
-* [Showkase](https://github.com/airbnb/Showkase) - Helps you organize, discover, search and visualize Jetpack Compose UI elements
-* [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot) - A Twitter Bot to get all updates about Jetpack Compose in your feed
+
+- [recompose](https://github.com/pocmo/recompose) - A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose.
+- [Jetpack Compose Playground](https://foso.github.io/Jetpack-Compose-Playground/)
+- [Shot](https://github.com/Karumi/Shot) - Jetpack Compose screenshot testing tool
+- [Radiography](https://developer.squareup.com/blog/introducing-radiography) - UI structure printer
+- [Showkase](https://github.com/airbnb/Showkase) - Helps you organize, discover, search and visualize Jetpack Compose UI elements
+- [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot) - A Twitter Bot to get all updates about Jetpack Compose in your feed
 
 ## Articles
 
@@ -66,12 +67,14 @@
 - [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/15361077-jetpack-compose-tutorial-for-android-getting-started)
 
 ### Styling
+
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
 - [Building a Design System implementation using Jetpack Compose — Part2 (Component)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part2-d965880292b0)
 - [How to create realistic UI with Jetpack Compose(Part II)](https://medium.com/mindful-engineering/how-to-create-simple-ui-with-jetpack-compose-part-ii-1c14148b7ffe)
 - [Jetpack Compose: Styles and Themes (Part II)](https://www.waseefakhtar.com/android/jetpack-compose-styles-and-themes/)
- 
+
 ### Navigation
+
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
 - [Jetpack Compose: Navigation](https://www.rockandnull.com/jetpack-compose-navigation/)
 - [Passing multi typed data between screens with Jetpack Compose navigation component](https://proandroiddev.com/passing-multi-typed-data-between-screens-with-jetpack-compose-navigation-component-39ccbcf901ff)
@@ -79,9 +82,11 @@
 - [Jetpack Compose: Navigating to a Detail View (Part III)](https://www.waseefakhtar.com/android/jetpack-compose-navigating-to-a-detail-view/)
 
 ### Lists/RecyclerView
+
 - [Jetpack Compose: An easy way to RecyclerView (Part I)](https://www.waseefakhtar.com/android/recyclerview-in-jetpack-compose/)
 
 ### Animations
+
 - [Intro to animations with Jetpack Compose](https://proandroiddev.com/rotating-pokeball-animation-with-jetpack-compose-e3e839782cba)
 - [Jetpack Compose Animations Tutorial: Getting Started](https://www.raywenderlich.com/13282144-jetpack-compose-animations-tutorial-getting-started)
 
@@ -92,6 +97,7 @@
 - [Jetpack Compose View & Android View Comparison](https://medium.com/mobile-app-development-publication/jetpack-compose-view-android-view-comparison-52005ac64b8c)
 
 ### Migration
+
 - [Getting our apps ready for Jetpack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
 - [Jetpack Compose migration course](https://developer.android.com/courses/pathways/compose)
 
@@ -99,8 +105,10 @@
 
 - [Using shapes in Jetpack Compose](https://dev.to/tkuenneth/using-shapes-in-jetpack-compose-3ggb?utm_source=dormosheio&utm_campaign=dormosheio)
 - [Drawing and painting in Jetpack Compose #1](https://dev.to/tkuenneth/drawing-and-painting-in-jetpack-compose-1-2okl)
+- [Canvas made easy in Jetpack Compose](https://jeffreyrajan.medium.com/canvas-made-easy-in-jetpack-compose-2c632518f8bf)
 
 ### Exporing JetPack Compose
+
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
 - [Modifiers](https://joebirch.co/android/exploring-jetpack-compose-modifiers/)
 - [Container](https://joebirch.co/android/exploring-jetpack-compose-container/)
@@ -124,12 +132,13 @@
 - [TopAppBar](https://joebirch.co/android/exploring-jetpack-compose-topappbar/)
 
 ### Cross-platform
+
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
 
 ## Libraries
 
-- [accompanist](https://github.com/chrisbanes/accompanist) -  A collection of extension libraries for Jetpack Compose
-- [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
+- [accompanist](https://github.com/chrisbanes/accompanist) - A collection of extension libraries for Jetpack Compose
+- [compose-router](https://github.com/zsoltk/compose-router) - Routing functionality for Jetpack Compose with back stack
 - [Landscapist](https://github.com/skydoves/Landscapist) - image loading uding Glide, Coil, Fresco
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [compose-icons](https://github.com/DevSrSouza/compose-icons) - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
@@ -157,9 +166,9 @@
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
 - [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
 - [JetExample](https://github.com/gastsail/JetExample) - Jetpack Compose UI components examples
-- [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
-- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
-- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
+- [Cheddar](https://github.com/adrianblancode/Cheddar) - Hacker News reader
+- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) - A Quotes Application
+- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) - Chrome's Dino T-Rex game developed in Jetpack Compose
 - [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
 - [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
 - [Facebook-Timeline-Compose-Android](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android)
