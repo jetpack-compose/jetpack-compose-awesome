@@ -149,28 +149,29 @@
 
 ## Projects
 
-- [Jetpack Compose Samples](https://github.com/android/compose-samples) - Official repository with samples by Google
-- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground)
-- [sunflower](https://github.com/android/sunflower/tree/compose) - Sample app by Google
-- [flux](https://github.com/fidloo/flux) - A fake weather app
-- [Wiggles](https://github.com/topics/androiddevchallenge-compose) - Beautiful Puppy adoption app with Jetpack Compose
-- [jetpuppy](https://github.com/ericktijerou/jetpuppy) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
-- [JetInstagram](https://github.com/vipulasri/JetInstagram) - Instagram clone app built with Jetpack Compose
-- [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground)
-- [JetExample](https://github.com/gastsail/JetExample) - Jetpack Compose UI components examples
-- [Cheddar](https://github.com/adrianblancode/Cheddar) -  Hacker News reader
-- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) -  A Quotes Application
-- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) -  Chrome's Dino T-Rex game developed in Jetpack Compose
-- [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) - 2048 implemented using Jetpack Compose
-- [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
-- [Facebook-Timeline-Compose-Android](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android)
-- [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) - Demo app for a horizontal schedule(event) calendar
-- [jettimer](https://github.com/ericktijerou/jettimer) - Timer app clone built with Jetpack Compose and Hilt
+- [Jetpack Compose Samples](https://github.com/android/compose-samples) (**+7.7K** ⭐) - Official repository with samples by Google
+- [sunflower](https://github.com/android/sunflower/tree/compose) (**+14.2K** ⭐) - Sample app by Google 
+- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) (**+1.5K** ⭐)
+- [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) (**+1.2K** ⭐)
+- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) (**+700** ⭐)
+- [JetInstagram](https://github.com/vipulasri/JetInstagram) (**+390** ⭐) - Instagram clone app built with Jetpack Compose
+- [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator) (**+240** ⭐)
+- [flux](https://github.com/fidloo/flux) (**+230** ⭐) - A fake weather app 
+- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) (**+230** ⭐) -  A Quotes Application
+- [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) (**+190** ⭐) - 2048 implemented using Jetpack Compose
+- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) (**+170** ⭐) -  Chrome's Dino T-Rex game developed in Jetpack Compose
+- [JetExample](https://github.com/gastsail/JetExample) (**+140** ⭐) - Jetpack Compose UI components examples
+- [Wiggles](https://github.com/Spikeysanju/Wiggles) (**+130** ⭐) - Beautiful Puppy adoption app with Jetpack Compose
+- [Facebook-Timeline-Compose-Android](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android) (**+100** ⭐)
+- [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) (**+100** ⭐) - Demo app for a horizontal schedule(event) calendar
+- [jetpuppy](https://github.com/ericktijerou/jetpuppy) (**+40** ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
+- [Cheddar](https://github.com/adrianblancode/Cheddar) (**+60** ⭐) -  Hacker News reader
+- [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
 
 ## Compose Desctop Projects
 
 - [Compose JB](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web
-- [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop)
+- [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) - A Slack demo app for desktop using Jetpack Compose
 
 ## Other projects
 
