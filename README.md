@@ -75,6 +75,7 @@
 - [Jetpack Compose: Styles and Themes (Part II)](https://www.waseefakhtar.com/android/jetpack-compose-styles-and-themes/)
  
 ### Navigation
+- [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
 - [Jetpack Compose: Navigation](https://www.rockandnull.com/jetpack-compose-navigation/)
 - [Passing multi typed data between screens with Jetpack Compose navigation component](https://proandroiddev.com/passing-multi-typed-data-between-screens-with-jetpack-compose-navigation-component-39ccbcf901ff)
