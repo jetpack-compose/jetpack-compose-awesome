@@ -24,6 +24,7 @@
 
 ## 🔥 News/Updates
 
+* 1 July, 2021 - Jetpack Compose 1.0.0-RC
 * 1 June, 2021 - [Compose for Desktop: Milestone 4 Released](https://blog.jetbrains.com/kotlin/2021/06/compose-for-desktop-milestone-4-released/)
 * 4 May, 2021 - [Technology Preview: Jetpack Compose for Web](https://blog.jetbrains.com/kotlin/2021/05/technology-preview-jetpack-compose-for-web/)
 * 24 March, 2021 - [Accompanist v0.7.0 release](https://github.com/google/accompanist/releases/tag/v0.7.0)
