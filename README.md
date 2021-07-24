@@ -63,11 +63,16 @@
 - [Expandable lists in Jetpack Compose](https://skyyo.medium.com/expandable-lists-in-jetpack-compose-b0b78c767b4)
 - [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
 - [The Story of My First A-ha Moment With Jetpack Compose](https://proandroiddev.com/the-story-of-my-first-a-ha-moment-with-jetpack-compose-c739bceb6b0b)
+- [Custom Weekly Schedule Layout with Jetpack Compose - Part 1](https://danielrampelt.com/blog/jetpack-compose-custom-schedule-layout-part-1)
+- [Custom Weekly Schedule Layout with Jetpack Compose - Part 2](https://danielrampelt.com/blog/jetpack-compose-custom-schedule-layout-part-2)
+- [remember { mutableStateOf() } – A cheat sheet](https://dev.to/zachklipp/remember-mutablestateof-a-cheat-sheet-10ma)
 
 ### Getting started
 
 - [Jetpack Compose Tutorial for Android: Getting Started](https://www.raywenderlich.com/15361077-jetpack-compose-tutorial-for-android-getting-started)
 - [Migration to compose](https://proandroiddev.com/migration-to-compose-c6eb63f187f9)
+- [Helping You Understand The Syntax of Jetpack Compose](https://oussamahaff.dev/posts/03_understanding_jetpack_compose_syntax)
+- [Scoped recomposition in Jetpack Compose — what happens when state changes?](https://dev.to/zachklipp/scoped-recomposition-jetpack-compose-what-happens-when-state-changes-l78)
 
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
@@ -146,7 +151,7 @@
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
 - [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) - A collection of Compose libraries for advanced text formatting.
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
-
+- [tehras/charts](https://github.com/tehras/charts) - simple Android compose charts.
 
 ### Navigation
 
