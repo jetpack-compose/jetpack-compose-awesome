@@ -134,22 +134,25 @@
 ## Libraries
 
 - [accompanist](https://github.com/chrisbanes/accompanist) -  A collection of extension libraries for Jetpack Compose
-- [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
 - [Landscapist](https://github.com/skydoves/Landscapist) - image loading uding Glide, Coil, Fresco
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [compose-icons](https://github.com/DevSrSouza/compose-icons) - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
-- [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
-- [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
-- [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
 
 ### UI
 
-[compose-richtext](https://github.com/zach-klippenstein/compose-richtext) - A collection of Compose libraries for advanced text formatting.
+- [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
+- [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) - A collection of Compose libraries for advanced text formatting.
+- [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
 
-### Architecture
+
+### Navigation
+
+- [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
+[voyager](https://github.com/adrielcafe/voyager) - A pragmatic navigation library for Jetpack Compose
+- [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
 
 ## Projects
 
