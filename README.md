@@ -73,7 +73,7 @@
 - [Migration to compose](https://proandroiddev.com/migration-to-compose-c6eb63f187f9)
 - [Helping You Understand The Syntax of Jetpack Compose](https://oussamahaff.dev/posts/03_understanding_jetpack_compose_syntax)
 - [Scoped recomposition in Jetpack Compose — what happens when state changes?](https://dev.to/zachklipp/scoped-recomposition-jetpack-compose-what-happens-when-state-changes-l78)
-- [🆕](#26-07) [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
+- 🆕[](#26-07) [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
 
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
