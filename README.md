@@ -24,6 +24,7 @@
 
 ## 🔥 News/Updates
 
+* 28 July, 2021 - Jetpack Compose 1.0 Released!
 * 1 July, 2021 - Jetpack Compose 1.0.0-RC
 * 1 June, 2021 - [Compose for Desktop: Milestone 4 Released](https://blog.jetbrains.com/kotlin/2021/06/compose-for-desktop-milestone-4-released/)
 * 4 May, 2021 - [Technology Preview: Jetpack Compose for Web](https://blog.jetbrains.com/kotlin/2021/05/technology-preview-jetpack-compose-for-web/)
@@ -33,6 +34,7 @@
 ##  Docs
 
 * [Jetpack Compose](https://developer.android.com/jetpack/compose)
+* [Jetpack Compose Roadmap](https://developer.android.com/jetpack/androidx/compose-roadmap)
 * [Jetpack Compose Release Notes](https://developer.android.com/jetpack/androidx/releases/ui)
 * [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook)
 * [Compose Academy](https://compose.academy) - Jetpack Compose Reference
