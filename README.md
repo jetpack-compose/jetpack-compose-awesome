@@ -24,6 +24,7 @@
 
 ## 🔥 News/Updates
 
+* 4 August, 2021 - [Compose Multiplatform goes Alpha](https://blog.jetbrains.com/kotlin/2021/08/compose-multiplatform-goes-alpha/)
 * 28 July, 2021 - Jetpack Compose 1.0 Released!
 * 1 July, 2021 - Jetpack Compose 1.0.0-RC
 * 1 June, 2021 - [Compose for Desktop: Milestone 4 Released](https://blog.jetbrains.com/kotlin/2021/06/compose-for-desktop-milestone-4-released/)
