@@ -146,6 +146,7 @@
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
+- [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
 
 ### UI
 
