@@ -146,6 +146,7 @@
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
+- [compose-country-code-picker](https://github.com/farharnoy/ComposeCountryCodePicker) - Country code picker built with Jetpack Compose
 
 ### UI
 
@@ -181,6 +182,7 @@
 - [jetpuppy](https://github.com/ericktijerou/jetpuppy) (**+40** ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 - [Cheddar](https://github.com/adrianblancode/Cheddar) (**+60** ⭐) -  Hacker News reader
 - [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
+- [Telegram Clone **+2** ⭐](https://github.com/farhanroy/compose-telegram-clone) - Telegram ui clone built with Jetpack Compose
 
 ## Compose Desctop Projects
 
