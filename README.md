@@ -153,6 +153,7 @@
 - [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) - A collection of Compose libraries for advanced text formatting.
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
 - [tehras/charts](https://github.com/tehras/charts) - simple Android compose charts.
+- [info-bar-compose](https://github.com/radusalagean/info-bar-compose) - Display Snackbar-style messages, the easy way.
 
 ### Navigation
 
