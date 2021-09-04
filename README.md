@@ -55,18 +55,11 @@
 - [Android Jetpack Compose Review](https://blog.karumi.com/android-jetpack-compose-review)
 - [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
 - [Under the hood of Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
-- [Building an exploding fab transition with Jetpack Compose](https://joebirch.co/category/android/)
 - [Code Simple Android Jetpack Compose Drawing App](https://levelup.gitconnected.com/code-simple-android-jetpack-compose-drawing-app-886d1146ad20)
-- [RecyclerView and LazyColumnFor in Jetpack Compose](https://medium.com/mobile-app-development-publication/recyclerview-and-lazycolumnfor-in-jetpack-compose-a7842cd7f17e)
 - [Android Jetpack Compose: Remember Made Easy](https://medium.com/mobile-app-development-publication/android-jetpack-compose-remember-made-easy-8bd86a48536c)
-- [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
-- [StaggeredVerticalGrid of Android Jetpack Compose](https://medium.com/mobile-app-development-publication/staggeredverticalgrid-of-android-jetpack-compose-fa565e5363e1)
 - [Jetpack Compose Effect Handlers](https://jorgecastillo.dev/jetpack-compose-effect-handlers)
-- [Expandable lists in Jetpack Compose](https://skyyo.medium.com/expandable-lists-in-jetpack-compose-b0b78c767b4)
 - [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
 - [The Story of My First A-ha Moment With Jetpack Compose](https://proandroiddev.com/the-story-of-my-first-a-ha-moment-with-jetpack-compose-c739bceb6b0b)
-- [Custom Weekly Schedule Layout with Jetpack Compose - Part 1](https://danielrampelt.com/blog/jetpack-compose-custom-schedule-layout-part-1)
-- [Custom Weekly Schedule Layout with Jetpack Compose - Part 2](https://danielrampelt.com/blog/jetpack-compose-custom-schedule-layout-part-2)
 - [remember { mutableStateOf() } – A cheat sheet](https://dev.to/zachklipp/remember-mutablestateof-a-cheat-sheet-10ma)
 
 ### Getting started
@@ -91,12 +84,21 @@
 - [Passing string typed data with Jetpack Compose navigation component](https://proandroiddev.com/passing-string-typed-data-with-jetpack-compose-navigation-component-fd4759acd906)
 - [Jetpack Compose: Navigating to a Detail View (Part III)](https://www.waseefakhtar.com/android/jetpack-compose-navigating-to-a-detail-view/)
 
+### UI Components
+- [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
+
 ### Lists/RecyclerView
 - [Jetpack Compose: An easy way to RecyclerView (Part I)](https://www.waseefakhtar.com/android/recyclerview-in-jetpack-compose/)
+- [Learn with code: Jetpack Compose — Lists and Pagination (Part 1)](https://proandroiddev.com/learn-with-code-jetpack-compose-lists-and-pagination-part-1-545447c55cb2)
+- [Expandable lists in Jetpack Compose](https://skyyo.medium.com/expandable-lists-in-jetpack-compose-b0b78c767b4)
+- [StaggeredVerticalGrid of Android Jetpack Compose](https://medium.com/mobile-app-development-publication/staggeredverticalgrid-of-android-jetpack-compose-fa565e5363e1)
+- [RecyclerView and LazyColumnFor in Jetpack Compose](https://medium.com/mobile-app-development-publication/recyclerview-and-lazycolumnfor-in-jetpack-compose-a7842cd7f17e)
 
-### Animations
+### Animations/Transitions
 - [Intro to animations with Jetpack Compose](https://proandroiddev.com/rotating-pokeball-animation-with-jetpack-compose-e3e839782cba)
 - [Jetpack Compose Animations Tutorial: Getting Started](https://www.raywenderlich.com/13282144-jetpack-compose-animations-tutorial-getting-started)
+- [Building an exploding FAB transition with Jetpack Compose](https://joebirch.co/android/building-an-exploding-fab-transition-in-jetpack-compose/)
+- [How to animate BottomSheet content using Jetpack Compose](https://proandroiddev.com/how-to-animate-bottomsheet-content-using-jetpack-compose-3eab972b3bdc)
 
 ### Interop
 
@@ -107,6 +109,18 @@
 ### Migration
 - [Getting our apps ready for Jetpack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
 - [Jetpack Compose migration course](https://developer.android.com/courses/pathways/compose)
+
+### Architecture
+- [Jetpack Compose navigation architecture with ViewModels](https://medium.com/@Syex/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
+
+### Side-Effects
+
+- [Jetpack Compose Side-Effects — LaunchedEffect](https://proandroiddev.com/jetpack-compose-side-effects-launchedeffect-59d2330d7834)
+
+### Custom Composables
+
+- [Custom Weekly Schedule Layout with Jetpack Compose - Part 1](https://danielrampelt.com/blog/jetpack-compose-custom-schedule-layout-part-1)
+- [Custom Weekly Schedule Layout with Jetpack Compose - Part 2](https://danielrampelt.com/blog/jetpack-compose-custom-schedule-layout-part-2)
 
 ### Canvas
 
@@ -136,8 +150,24 @@
 - [Modal Drawer Layout](https://joebirch.co/android/exploring-jetpack-compose-modal-drawer-layout/)
 - [TopAppBar](https://joebirch.co/android/exploring-jetpack-compose-topappbar/)
 
+### Additional
+
+- [Supporting different screen sizes on Android with Jetpack Compose](Supporting different screen sizes on Android with Jetpack Compose)
+- [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
+- [Understanding re-composition in Jetpack Compose with a case study]()
+
+### Additional
+
+- [Supporting different screen sizes on Android with Jetpack Compose](Supporting different screen sizes on Android with Jetpack Compose)
+- [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
+- [Understanding re-composition in Jetpack Compose with a case study]()
+
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
+
+### Testings
+- [Testing your Compose layout](https://developer.android.com/jetpack/compose/testing)
+- [How to test Jetpack Compose UI](https://dmytroshuba.com/blog/jetpack-compose-ui-testing/)
 
 ## Libraries
 
