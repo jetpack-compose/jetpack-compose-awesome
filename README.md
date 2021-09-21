@@ -156,12 +156,6 @@
 - [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
 - [Understanding re-composition in Jetpack Compose with a case study]()
 
-### Additional
-
-- [Supporting different screen sizes on Android with Jetpack Compose](Supporting different screen sizes on Android with Jetpack Compose)
-- [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
-- [Understanding re-composition in Jetpack Compose with a case study]()
-
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
 
