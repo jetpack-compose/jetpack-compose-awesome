@@ -152,7 +152,7 @@
 
 ### Additional
 
-- [Supporting different screen sizes on Android with Jetpack Compose](Supporting different screen sizes on Android with Jetpack Compose)
+- [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
 - [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
 - [Understanding re-composition in Jetpack Compose with a case study]()
 
