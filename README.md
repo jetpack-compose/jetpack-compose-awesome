@@ -179,6 +179,7 @@
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
 - [tehras/charts](https://github.com/tehras/charts) - simple Android compose charts.
 - [info-bar-compose](https://github.com/radusalagean/info-bar-compose) - Display Snackbar-style messages, the easy way.
+- [shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Shimmer effect
 
 ### Navigation
 
