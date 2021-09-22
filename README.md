@@ -207,6 +207,7 @@
 - [jetpuppy](https://github.com/ericktijerou/jetpuppy) (**+40** ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 - [Cheddar](https://github.com/adrianblancode/Cheddar) (**+60** ⭐) -  Hacker News reader
 - [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
+- [ChAES](https://github.com/laksh-21/ChAES) (**+1** ⭐) - Fully functional AES encrypted chat app using Jetpack Compose
 
 ## Compose Desctop Projects
 
