@@ -175,6 +175,7 @@
 ### UI
 
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
+- [compose-particle-system](https://github.com/CuriousNikhil/compose-particle-system) - A lightweight particle system for Jetpack Compose, Quarks.
 - [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) - A collection of Compose libraries for advanced text formatting.
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
 - [tehras/charts](https://github.com/tehras/charts) - simple Android compose charts.
