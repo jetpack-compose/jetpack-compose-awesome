@@ -75,6 +75,7 @@
 - [Building a Design System implementation using Jetpack Compose — Part2 (Component)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part2-d965880292b0)
 - [How to create realistic UI with Jetpack Compose(Part II)](https://medium.com/mindful-engineering/how-to-create-simple-ui-with-jetpack-compose-part-ii-1c14148b7ffe)
 - [Jetpack Compose: Styles and Themes (Part II)](https://www.waseefakhtar.com/android/jetpack-compose-styles-and-themes/)
+- [Create a truly custom theme in Jetpack Compose](https://dmytroshuba.com/blog/how-to-create-a-custom-theme-in-jetpack-compose/)
  
 ### Navigation
 - [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles
