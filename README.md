@@ -209,6 +209,7 @@
 - [jetpuppy](https://github.com/ericktijerou/jetpuppy) (**+40** ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 - [Cheddar](https://github.com/adrianblancode/Cheddar) (**+60** ⭐) -  Hacker News reader
 - [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
+- [Rebound](https://github.com/AnkitSuda/Rebound) (**1** ⭐) - Highly customizable and feature rich workout log app.
 
 ## Compose Desctop Projects
 
