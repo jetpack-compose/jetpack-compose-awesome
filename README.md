@@ -40,6 +40,7 @@
 * [Compose Academy](https://compose.academy) - Jetpack Compose Reference
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
 * [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
+* 🆕[](#28-10) [Book: Jetpack Compose internals](https://leanpub.com/composeinternals)
  
 ## Tools
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
@@ -72,6 +73,10 @@
 - [Scoped recomposition in Jetpack Compose — what happens when state changes?](https://dev.to/zachklipp/scoped-recomposition-jetpack-compose-what-happens-when-state-changes-l78)
 - [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
 - 🆕[](#28-10) [Roadmap for Jetpack Compose](https://victorbrandalise.com/roadmap-for-jetpack-compose/)
+- 🆕[](#28-10) [7 things you should know before using Jetpack Compose](https://www.bloco.io/blog/7-things-about-compose)
+
+### Modifiers
+- 🆕[](#28-10) [List of Compose modifiers](https://developer.android.com/jetpack/compose/modifiers-list)
 
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
@@ -103,6 +108,7 @@
 - [Jetpack Compose Animations Tutorial: Getting Started](https://www.raywenderlich.com/13282144-jetpack-compose-animations-tutorial-getting-started)
 - [Building an exploding FAB transition with Jetpack Compose](https://joebirch.co/android/building-an-exploding-fab-transition-in-jetpack-compose/)
 - [How to animate BottomSheet content using Jetpack Compose](https://proandroiddev.com/how-to-animate-bottomsheet-content-using-jetpack-compose-3eab972b3bdc)
+- [](#28-10) [Creating a rotating card in Jetpack Compose](https://fvilarino.medium.com/creating-a-rotating-card-in-jetpack-compose-ba94c7dd76fb)
 
 ### Interop
 
@@ -187,6 +193,7 @@
 - [info-bar-compose](https://github.com/radusalagean/info-bar-compose) - Display Snackbar-style messages, the easy way.
 - [shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Shimmer effect
 - 🆕[](#28-10) [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose)  (**+50** ⭐) -  Animated dark mode toggle button with Jetpack Compose.
+- 🆕[](#28-10) [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
 
 ### Navigation
 
