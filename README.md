@@ -61,6 +61,8 @@
 - [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
 - [The Story of My First A-ha Moment With Jetpack Compose](https://proandroiddev.com/the-story-of-my-first-a-ha-moment-with-jetpack-compose-c739bceb6b0b)
 - [remember { mutableStateOf() } – A cheat sheet](https://dev.to/zachklipp/remember-mutablestateof-a-cheat-sheet-10ma)
+- [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
+- 🆕[](#28-10) [Inside Jetpack Compose](https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e)
 
 ### Getting started
 
@@ -68,7 +70,8 @@
 - [Migration to compose](https://proandroiddev.com/migration-to-compose-c6eb63f187f9)
 - [Helping You Understand The Syntax of Jetpack Compose](https://oussamahaff.dev/posts/03_understanding_jetpack_compose_syntax)
 - [Scoped recomposition in Jetpack Compose — what happens when state changes?](https://dev.to/zachklipp/scoped-recomposition-jetpack-compose-what-happens-when-state-changes-l78)
-- 🆕[](#26-07) [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
+- [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
+- 🆕[](#28-10) [Roadmap for Jetpack Compose](https://victorbrandalise.com/roadmap-for-jetpack-compose/)
 
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
@@ -128,7 +131,7 @@
 - [Using shapes in Jetpack Compose](https://dev.to/tkuenneth/using-shapes-in-jetpack-compose-3ggb?utm_source=dormosheio&utm_campaign=dormosheio)
 - [Drawing and painting in Jetpack Compose #1](https://dev.to/tkuenneth/drawing-and-painting-in-jetpack-compose-1-2okl)
 
-### Exporing JetPack Compose
+### Exploring JetPack Compose
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
 - [Modifiers](https://joebirch.co/android/exploring-jetpack-compose-modifiers/)
 - [Container](https://joebirch.co/android/exploring-jetpack-compose-container/)
@@ -155,12 +158,13 @@
 
 - [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
 - [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
-- [Understanding re-composition in Jetpack Compose with a case study]()
+- [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
 
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
 
 ### Testings
+- 🆕[](#28-10) [KakaoCup/Compose](https://github.com/KakaoCup/Compose)
 - [Testing your Compose layout](https://developer.android.com/jetpack/compose/testing)
 - [How to test Jetpack Compose UI](https://dmytroshuba.com/blog/jetpack-compose-ui-testing/)
 
@@ -172,6 +176,7 @@
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
+- [snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose
 
 ### UI
 
@@ -181,6 +186,7 @@
 - [tehras/charts](https://github.com/tehras/charts) - simple Android compose charts.
 - [info-bar-compose](https://github.com/radusalagean/info-bar-compose) - Display Snackbar-style messages, the easy way.
 - [shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Shimmer effect
+- 🆕[](#28-10) [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose)  (**+50** ⭐) -  Animated dark mode toggle button with Jetpack Compose.
 
 ### Navigation
 
