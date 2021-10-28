@@ -62,7 +62,6 @@
 - [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
 - [The Story of My First A-ha Moment With Jetpack Compose](https://proandroiddev.com/the-story-of-my-first-a-ha-moment-with-jetpack-compose-c739bceb6b0b)
 - [remember { mutableStateOf() } – A cheat sheet](https://dev.to/zachklipp/remember-mutablestateof-a-cheat-sheet-10ma)
-- [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
 - 🆕[](#28-10) [Inside Jetpack Compose](https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e)
 
 ### Getting started
@@ -77,6 +76,7 @@
 
 ### Modifiers
 - 🆕[](#28-10) [List of Compose modifiers](https://developer.android.com/jetpack/compose/modifiers-list)
+- 🆕[](#28-10) [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
 
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
@@ -84,6 +84,7 @@
 - [How to create realistic UI with Jetpack Compose(Part II)](https://medium.com/mindful-engineering/how-to-create-simple-ui-with-jetpack-compose-part-ii-1c14148b7ffe)
 - [Jetpack Compose: Styles and Themes (Part II)](https://www.waseefakhtar.com/android/jetpack-compose-styles-and-themes/)
 - [Create a truly custom theme in Jetpack Compose](https://dmytroshuba.com/blog/how-to-create-a-custom-theme-in-jetpack-compose/)
+- 🆕[](#28-10) [How to create a truly custom theme in Jetpack Compose](https://dmytroshuba.com/blog/how-to-create-a-custom-theme-in-jetpack-compose)
  
 ### Navigation
 - [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles
@@ -108,7 +109,13 @@
 - [Jetpack Compose Animations Tutorial: Getting Started](https://www.raywenderlich.com/13282144-jetpack-compose-animations-tutorial-getting-started)
 - [Building an exploding FAB transition with Jetpack Compose](https://joebirch.co/android/building-an-exploding-fab-transition-in-jetpack-compose/)
 - [How to animate BottomSheet content using Jetpack Compose](https://proandroiddev.com/how-to-animate-bottomsheet-content-using-jetpack-compose-3eab972b3bdc)
-- [](#28-10) [Creating a rotating card in Jetpack Compose](https://fvilarino.medium.com/creating-a-rotating-card-in-jetpack-compose-ba94c7dd76fb)
+- 🆕[](#28-10) [Creating a rotating card in Jetpack Compose](https://fvilarino.medium.com/creating-a-rotating-card-in-jetpack-compose-ba94c7dd76fb)
+
+#### List
+- 🆕[](#28-10) [List animations in Compose: Add an item](https://developersbreach.com/add-item-animation-compose/)
+- 🆕[](#28-10) [List animations in Compose: Swipe to delete](https://developersbreach.com/swipe-to-delete-compose/)
+- 🆕[](#28-10) [List animations in Compose: Drag to reorder](https://developersbreach.com/drag-to-reorder-compose/)
+
 
 ### Interop
 
