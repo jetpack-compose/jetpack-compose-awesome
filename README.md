@@ -63,10 +63,9 @@
 - [The Story of My First A-ha Moment With Jetpack Compose](https://proandroiddev.com/the-story-of-my-first-a-ha-moment-with-jetpack-compose-c739bceb6b0b)
 - [remember { mutableStateOf() } – A cheat sheet](https://dev.to/zachklipp/remember-mutablestateof-a-cheat-sheet-10ma)
 - 🆕[](#28-10) [Inside Jetpack Compose](https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e)
-- 🆕[](#29-10) [ViewModels using Compose: MutableStateFlows or MutableStates?](https://proandroiddev.com/viewmodels-using-compose-mutablestateflows-or-mutablestates-64d34ba548c5)
 - 🆕[](#29-10) [What is “donut-hole skipping” in Jetpack Compose?](https://www.jetpackcompose.app/articles/donut-hole-skipping-in-jetpack-compose)
-- 🆕[](#29-10) [Better handling states between ViewModel and Composable](https://proandroiddev.com/better-handling-states-between-viewmodel-and-composable-7ca14af379cb)
 - 🆕[](#29-10) [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
+- 🆕[](#30-10) [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
 
 ### Getting started
 
@@ -100,6 +99,7 @@
 - [Passing string typed data with Jetpack Compose navigation component](https://proandroiddev.com/passing-string-typed-data-with-jetpack-compose-navigation-component-fd4759acd906)
 - [Jetpack Compose: Navigating to a Detail View (Part III)](https://www.waseefakhtar.com/android/jetpack-compose-navigating-to-a-detail-view/)
 - 🆕[](#29-10) [Handling back presses in Jetpack Compose](https://dev.to/pawegio/handling-back-presses-in-jetpack-compose-50d5)
+- 🆕[](#30-10) [Nested Navigation Graphs in Jetpack Compose](https://hitherejoe.medium.com/nested-navigation-graphs-in-jetpack-compose-dc0ada1d4726)
 
 ### UI Components
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
@@ -125,6 +125,7 @@
 - 🆕[](#28-10) [Creating a rotating card in Jetpack Compose](https://fvilarino.medium.com/creating-a-rotating-card-in-jetpack-compose-ba94c7dd76fb)
 - 🆕[](#29-10) [Animate with Jetpack Compose: Animate as State and Animation Specs](https://proandroiddev.com/animate-with-jetpack-compose-animate-as-state-and-animation-specs-ffc708bb45f8)
 - 🆕[](#29-10) [Android Jetpack Compose: Animation Spec Made Easy](https://medium.com/mobile-app-development-publication/android-jetpack-compose-animation-spec-made-easy-6e7990aef203)
+- 🆕[](#30-10) [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
 
 ### Interop
 
@@ -139,6 +140,9 @@
 
 ### Architecture
 - [Jetpack Compose navigation architecture with ViewModels](https://medium.com/@Syex/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
+- 🆕[](#29-10) [ViewModels using Compose: MutableStateFlows or MutableStates?](https://proandroiddev.com/viewmodels-using-compose-mutablestateflows-or-mutablestates-64d34ba548c5)
+- 🆕[](#29-10) [Better handling states between ViewModel and Composable](https://proandroiddev.com/better-handling-states-between-viewmodel-and-composable-7ca14af379cb)
+- 🆕[](#30-10) [Dagger 2 and Jetpack Compose Integration](https://proandroiddev.com/dagger-2-and-jetpack-compose-integration-8a8d424ffdb4)
 
 ### Side-Effects
 
