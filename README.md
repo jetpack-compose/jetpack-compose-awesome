@@ -66,6 +66,9 @@
 - 🆕[](#29-10) [What is “donut-hole skipping” in Jetpack Compose?](https://www.jetpackcompose.app/articles/donut-hole-skipping-in-jetpack-compose)
 - 🆕[](#29-10) [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
 - 🆕[](#30-10) [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
+- 🆕[](#03-11) [Cartographing Jetpack Compose: compiler and runtime](https://dev.to/tkuenneth/cartographing-jetpack-compose-compiler-and-runtime-1605)
+- 🆕[](#03-11) [Focus in Jetpack Compose](https://medium.com/google-developer-experts/focus-in-jetpack-compose-6584252257fe)
+- 🆕[](#03-11) [Browsing Jetpack Compose samples](https://dev.to/antonshilov/browsing-jetpack-compose-samples-32m6)
 
 ### Getting started
 
@@ -100,6 +103,7 @@
 - [Jetpack Compose: Navigating to a Detail View (Part III)](https://www.waseefakhtar.com/android/jetpack-compose-navigating-to-a-detail-view/)
 - 🆕[](#29-10) [Handling back presses in Jetpack Compose](https://dev.to/pawegio/handling-back-presses-in-jetpack-compose-50d5)
 - 🆕[](#30-10) [Nested Navigation Graphs in Jetpack Compose](https://hitherejoe.medium.com/nested-navigation-graphs-in-jetpack-compose-dc0ada1d4726)
+- 🆕[](#03-11) [Passing Parcelable / Serializable and Other Data in Jetpack Compose Navigation](https://wajahatkarim.com/2021/03/pass-parcelable-compose-navigation/)
 
 ### UI Components
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
@@ -116,6 +120,7 @@
 - 🆕[](#29-10) [Jetpack Compose: Building Grids](https://alexzh.com/jetpack-compose-building-grids/)
 - 🆕[](#29-10) [How to master Swipeable and NestedScroll modifiers in Jetpack Compose](https://proandroiddev.com/how-to-master-swipeable-and-nestedscroll-modifiers-in-compose-bb0635d6a760)
 - 🆕[](#29-10) [Basic Drag-n-Drop in Jetpack Compose](https://proandroiddev.com/basic-drag-n-drop-in-jetpack-compose-a6919ba58ba8)
+- 🆕[](#03-11) [Infinite LazyColumn in Jetpack Compose](https://dev.to/luismierez/infinite-lazycolumn-in-jetpack-compose-44a4)
 
 ### Animations/Transitions
 - [Intro to animations with Jetpack Compose](https://proandroiddev.com/rotating-pokeball-animation-with-jetpack-compose-e3e839782cba)
