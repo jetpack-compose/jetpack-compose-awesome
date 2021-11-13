@@ -65,7 +65,6 @@
 - 🆕[](#28-10) [Inside Jetpack Compose](https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e)
 - 🆕[](#29-10) [What is “donut-hole skipping” in Jetpack Compose?](https://www.jetpackcompose.app/articles/donut-hole-skipping-in-jetpack-compose)
 - 🆕[](#29-10) [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
-- 🆕[](#30-10) [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
 - 🆕[](#03-11) [Cartographing Jetpack Compose: compiler and runtime](https://dev.to/tkuenneth/cartographing-jetpack-compose-compiler-and-runtime-1605)
 - 🆕[](#03-11) [Focus in Jetpack Compose](https://medium.com/google-developer-experts/focus-in-jetpack-compose-6584252257fe)
 - 🆕[](#03-11) [Browsing Jetpack Compose samples](https://dev.to/antonshilov/browsing-jetpack-compose-samples-32m6)
