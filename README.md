@@ -219,6 +219,7 @@
 - [tehras/charts](https://github.com/tehras/charts) - simple Android compose charts.
 - [info-bar-compose](https://github.com/radusalagean/info-bar-compose) - Display Snackbar-style messages, the easy way.
 - [shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Shimmer effect
+- [compose-sliders](https://github.com/krottv/compose-sliders) - Custom Sliders (previously known as SeekBar) for jetpack compose
 - 🆕[](#28-10) [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose)  (**+50** ⭐) -  Animated dark mode toggle button with Jetpack Compose.
 - 🆕[](#28-10) [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
 
