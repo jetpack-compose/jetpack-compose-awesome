@@ -238,6 +238,7 @@
 - [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) (**+1.2K** ⭐)
 - [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) (**+700** ⭐)
 - [JetInstagram](https://github.com/vipulasri/JetInstagram) (**+390** ⭐) - Instagram clone app built with Jetpack Compose
+- [datmusic-android](https://github.com/alashow/datmusic-android) (**+290** ⭐) - Music search, downloader & player app using Jetpack Compose
 - [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator) (**+240** ⭐)
 - [flux](https://github.com/fidloo/flux) (**+230** ⭐) - A fake weather app 
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) (**+230** ⭐) -  A Quotes Application
