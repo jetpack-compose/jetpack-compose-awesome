@@ -252,7 +252,7 @@
 - [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
 - [Rebound](https://github.com/AnkitSuda/Rebound) (**1** ⭐) - Highly customizable and feature rich workout log app.
 
-## Compose Desctop Projects
+## Compose Desktop Projects
 
 - [Compose JB](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web
 - [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) - A Slack demo app for desktop using Jetpack Compose
