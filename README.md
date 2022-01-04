@@ -41,6 +41,7 @@
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
 * [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
 * 🆕[](#28-10) [Book: Jetpack Compose internals](https://leanpub.com/composeinternals)
+* 🆕 [Jetpack Compose Collection](https://developersbreach.com/compose/)
  
 ## Tools
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
@@ -249,7 +250,9 @@
 - [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) (**+100** ⭐) - Demo app for a horizontal schedule(event) calendar
 - [jetpuppy](https://github.com/ericktijerou/jetpuppy) (**+40** ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
 - [Cheddar](https://github.com/adrianblancode/Cheddar) (**+60** ⭐) -  Hacker News reader
+- [jetpack-compose-samples](https://github.com/RajashekarRaju/jetpack-compose-samples) (**+17** ⭐) - Repository with collection of many compose samples.
 - [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
+- [compose-actors](https://github.com/RajashekarRaju/compose-actors) (**+12** ⭐) - App built with jetpack 🚀 compose follows new revamped guide to app architecture.
 - [Rebound](https://github.com/AnkitSuda/Rebound) (**1** ⭐) - Highly customizable and feature rich workout log app.
 
 ## Compose Desktop Projects
