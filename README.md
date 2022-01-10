@@ -164,6 +164,7 @@
 
 - [Using shapes in Jetpack Compose](https://dev.to/tkuenneth/using-shapes-in-jetpack-compose-3ggb?utm_source=dormosheio&utm_campaign=dormosheio)
 - [Drawing and painting in Jetpack Compose #1](https://dev.to/tkuenneth/drawing-and-painting-in-jetpack-compose-1-2okl)
+- [Emoji Slider in Jetpack Compose using Canvas API](https://theandroidway.hashnode.dev/emoji-slider-in-jetpack-compose-using-canvas-api)
 
 ### Exploring JetPack Compose
 - [Getting our apps ready for JetPack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
