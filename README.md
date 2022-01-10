@@ -252,7 +252,6 @@
 - [Cheddar](https://github.com/adrianblancode/Cheddar) (**+60** ⭐) -  Hacker News reader
 - [jetpack-compose-samples](https://github.com/RajashekarRaju/jetpack-compose-samples) (**+17** ⭐) - Repository with collection of many compose samples.
 - [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
-- [compose-actors](https://github.com/RajashekarRaju/compose-actors) (**+12** ⭐) - App built with jetpack 🚀 compose follows new revamped guide to app architecture.
 - [Rebound](https://github.com/AnkitSuda/Rebound) (**1** ⭐) - Highly customizable and feature rich workout log app.
 
 ## Compose Desktop Projects
