@@ -38,8 +38,8 @@
 * [Compose Academy](https://compose.academy) - Jetpack Compose Reference
 * [Jetpack Compose App](https://jetpackcompose.app/) -  Comparison of existing UI widgets and Jetpack Compose
 * [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
-* 🆕[](#28-10) [Book: Jetpack Compose internals](https://leanpub.com/composeinternals)
-* 🆕 [Jetpack Compose Collection](https://developersbreach.com/compose/)
+* [Book: Jetpack Compose internals](https://leanpub.com/composeinternals)
+* [Jetpack Compose Collection](https://developersbreach.com/compose/)
  
 ## Tools
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
@@ -61,12 +61,12 @@
 - [Introduction to the Compose Snapshot system](https://dev.to/zachklipp/introduction-to-the-compose-snapshot-system-19cn)
 - [The Story of My First A-ha Moment With Jetpack Compose](https://proandroiddev.com/the-story-of-my-first-a-ha-moment-with-jetpack-compose-c739bceb6b0b)
 - [remember { mutableStateOf() } – A cheat sheet](https://dev.to/zachklipp/remember-mutablestateof-a-cheat-sheet-10ma)
-- 🆕[](#28-10) [Inside Jetpack Compose](https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e)
-- 🆕[](#29-10) [What is “donut-hole skipping” in Jetpack Compose?](https://www.jetpackcompose.app/articles/donut-hole-skipping-in-jetpack-compose)
-- 🆕[](#29-10) [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
-- 🆕[](#03-11) [Cartographing Jetpack Compose: compiler and runtime](https://dev.to/tkuenneth/cartographing-jetpack-compose-compiler-and-runtime-1605)
-- 🆕[](#03-11) [Focus in Jetpack Compose](https://medium.com/google-developer-experts/focus-in-jetpack-compose-6584252257fe)
-- 🆕[](#03-11) [Browsing Jetpack Compose samples](https://dev.to/antonshilov/browsing-jetpack-compose-samples-32m6)
+- [Inside Jetpack Compose](https://medium.com/@takahirom/inside-jetpack-compose-2e971675e55e)
+- [What is “donut-hole skipping” in Jetpack Compose?](https://www.jetpackcompose.app/articles/donut-hole-skipping-in-jetpack-compose)
+- [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
+- [Cartographing Jetpack Compose: compiler and runtime](https://dev.to/tkuenneth/cartographing-jetpack-compose-compiler-and-runtime-1605)
+- [Focus in Jetpack Compose](https://medium.com/google-developer-experts/focus-in-jetpack-compose-6584252257fe)
+- [Browsing Jetpack Compose samples](https://dev.to/antonshilov/browsing-jetpack-compose-samples-32m6)
 
 ### Getting started
 
@@ -75,13 +75,13 @@
 - [Helping You Understand The Syntax of Jetpack Compose](https://oussamahaff.dev/posts/03_understanding_jetpack_compose_syntax)
 - [Scoped recomposition in Jetpack Compose — what happens when state changes?](https://dev.to/zachklipp/scoped-recomposition-jetpack-compose-what-happens-when-state-changes-l78)
 - [Things you need to know before switching to Jetpack Compose](https://maxkim.eu/things-you-need-to-know-before-switching-to-jetpack-compose)
-- 🆕[](#28-10) [Roadmap for Jetpack Compose](https://victorbrandalise.com/roadmap-for-jetpack-compose/)
-- 🆕[](#28-10) [7 things you should know before using Jetpack Compose](https://www.bloco.io/blog/7-things-about-compose)
+- [Roadmap for Jetpack Compose](https://victorbrandalise.com/roadmap-for-jetpack-compose/)
+- [7 things you should know before using Jetpack Compose](https://www.bloco.io/blog/7-things-about-compose)
 
 ### Modifiers
-- 🆕[](#28-10) [List of Compose modifiers](https://developer.android.com/jetpack/compose/modifiers-list)
-- 🆕[](#28-10) [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
-- 🆕[](#29-10) [Lessons learned when migrating my app to Jetpack Compose](https://proandroiddev.com/lessons-learned-when-migrating-my-app-to-jetpack-compose-55ea1b05b988)
+- [List of Compose modifiers](https://developer.android.com/jetpack/compose/modifiers-list)
+- [Always provide a Modifier parameter](https://chris.banes.dev/always-provide-a-modifier/)
+- [Lessons learned when migrating my app to Jetpack Compose](https://proandroiddev.com/lessons-learned-when-migrating-my-app-to-jetpack-compose-55ea1b05b988)
 
 ### Styling
 - [Building a Design System implementation using Jetpack Compose — Part1 (Theme)](https://howiezuo.medium.com/building-a-design-system-implementation-using-jetpack-compose-part1-bc1de068a56d)
@@ -89,8 +89,8 @@
 - [How to create realistic UI with Jetpack Compose(Part II)](https://medium.com/mindful-engineering/how-to-create-simple-ui-with-jetpack-compose-part-ii-1c14148b7ffe)
 - [Jetpack Compose: Styles and Themes (Part II)](https://www.waseefakhtar.com/android/jetpack-compose-styles-and-themes/)
 - [Create a truly custom theme in Jetpack Compose](https://dmytroshuba.com/blog/how-to-create-a-custom-theme-in-jetpack-compose/)
-- 🆕[](#28-10) [How to create a truly custom theme in Jetpack Compose](https://dmytroshuba.com/blog/how-to-create-a-custom-theme-in-jetpack-compose)
-- 🆕[](#29-10) [Jetpack Compose: Theme and Typography](https://alexzh.com/jetpack-compose-theme-and-typography/)
+- [How to create a truly custom theme in Jetpack Compose](https://dmytroshuba.com/blog/how-to-create-a-custom-theme-in-jetpack-compose)
+- [Jetpack Compose: Theme and Typography](https://alexzh.com/jetpack-compose-theme-and-typography/)
  
 ### Navigation
 - [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles
@@ -99,9 +99,9 @@
 - [Passing multi typed data between screens with Jetpack Compose navigation component](https://proandroiddev.com/passing-multi-typed-data-between-screens-with-jetpack-compose-navigation-component-39ccbcf901ff)
 - [Passing string typed data with Jetpack Compose navigation component](https://proandroiddev.com/passing-string-typed-data-with-jetpack-compose-navigation-component-fd4759acd906)
 - [Jetpack Compose: Navigating to a Detail View (Part III)](https://www.waseefakhtar.com/android/jetpack-compose-navigating-to-a-detail-view/)
-- 🆕[](#29-10) [Handling back presses in Jetpack Compose](https://dev.to/pawegio/handling-back-presses-in-jetpack-compose-50d5)
-- 🆕[](#30-10) [Nested Navigation Graphs in Jetpack Compose](https://hitherejoe.medium.com/nested-navigation-graphs-in-jetpack-compose-dc0ada1d4726)
-- 🆕[](#03-11) [Passing Parcelable / Serializable and Other Data in Jetpack Compose Navigation](https://wajahatkarim.com/2021/03/pass-parcelable-compose-navigation/)
+- [Handling back presses in Jetpack Compose](https://dev.to/pawegio/handling-back-presses-in-jetpack-compose-50d5)
+- [Nested Navigation Graphs in Jetpack Compose](https://hitherejoe.medium.com/nested-navigation-graphs-in-jetpack-compose-dc0ada1d4726)
+- [Passing Parcelable / Serializable and Other Data in Jetpack Compose Navigation](https://wajahatkarim.com/2021/03/pass-parcelable-compose-navigation/)
 
 ### UI Components
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
@@ -112,30 +112,30 @@
 - [Expandable lists in Jetpack Compose](https://skyyo.medium.com/expandable-lists-in-jetpack-compose-b0b78c767b4)
 - [StaggeredVerticalGrid of Android Jetpack Compose](https://medium.com/mobile-app-development-publication/staggeredverticalgrid-of-android-jetpack-compose-fa565e5363e1)
 - [RecyclerView and LazyColumnFor in Jetpack Compose](https://medium.com/mobile-app-development-publication/recyclerview-and-lazycolumnfor-in-jetpack-compose-a7842cd7f17e)
-- 🆕[](#28-10) [List animations in Compose: Add an item](https://developersbreach.com/add-item-animation-compose/)
-- 🆕[](#28-10) [List animations in Compose: Swipe to delete](https://developersbreach.com/swipe-to-delete-compose/)
-- 🆕[](#28-10) [List animations in Compose: Drag to reorder](https://developersbreach.com/drag-to-reorder-compose/)
-- 🆕[](#29-10) [Jetpack Compose: Building Grids](https://alexzh.com/jetpack-compose-building-grids/)
-- 🆕[](#29-10) [How to master Swipeable and NestedScroll modifiers in Jetpack Compose](https://proandroiddev.com/how-to-master-swipeable-and-nestedscroll-modifiers-in-compose-bb0635d6a760)
-- 🆕[](#29-10) [Basic Drag-n-Drop in Jetpack Compose](https://proandroiddev.com/basic-drag-n-drop-in-jetpack-compose-a6919ba58ba8)
-- 🆕[](#03-11) [Infinite LazyColumn in Jetpack Compose](https://dev.to/luismierez/infinite-lazycolumn-in-jetpack-compose-44a4)
+- [List animations in Compose: Add an item](https://developersbreach.com/add-item-animation-compose/)
+- [List animations in Compose: Swipe to delete](https://developersbreach.com/swipe-to-delete-compose/)
+- [List animations in Compose: Drag to reorder](https://developersbreach.com/drag-to-reorder-compose/)
+- [Jetpack Compose: Building Grids](https://alexzh.com/jetpack-compose-building-grids/)
+- [How to master Swipeable and NestedScroll modifiers in Jetpack Compose](https://proandroiddev.com/how-to-master-swipeable-and-nestedscroll-modifiers-in-compose-bb0635d6a760)
+- [Basic Drag-n-Drop in Jetpack Compose](https://proandroiddev.com/basic-drag-n-drop-in-jetpack-compose-a6919ba58ba8)
+- [Infinite LazyColumn in Jetpack Compose](https://dev.to/luismierez/infinite-lazycolumn-in-jetpack-compose-44a4)
 
 ### Animations/Transitions
 - [Intro to animations with Jetpack Compose](https://proandroiddev.com/rotating-pokeball-animation-with-jetpack-compose-e3e839782cba)
 - [Jetpack Compose Animations Tutorial: Getting Started](https://www.raywenderlich.com/13282144-jetpack-compose-animations-tutorial-getting-started)
 - [Building an exploding FAB transition with Jetpack Compose](https://joebirch.co/android/building-an-exploding-fab-transition-in-jetpack-compose/)
 - [How to animate BottomSheet content using Jetpack Compose](https://proandroiddev.com/how-to-animate-bottomsheet-content-using-jetpack-compose-3eab972b3bdc)
-- 🆕[](#28-10) [Creating a rotating card in Jetpack Compose](https://fvilarino.medium.com/creating-a-rotating-card-in-jetpack-compose-ba94c7dd76fb)
-- 🆕[](#29-10) [Animate with Jetpack Compose: Animate as State and Animation Specs](https://proandroiddev.com/animate-with-jetpack-compose-animate-as-state-and-animation-specs-ffc708bb45f8)
-- 🆕[](#29-10) [Android Jetpack Compose: Animation Spec Made Easy](https://medium.com/mobile-app-development-publication/android-jetpack-compose-animation-spec-made-easy-6e7990aef203)
-- 🆕[](#30-10) [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
+- [Creating a rotating card in Jetpack Compose](https://fvilarino.medium.com/creating-a-rotating-card-in-jetpack-compose-ba94c7dd76fb)
+- [Animate with Jetpack Compose: Animate as State and Animation Specs](https://proandroiddev.com/animate-with-jetpack-compose-animate-as-state-and-animation-specs-ffc708bb45f8)
+- [Android Jetpack Compose: Animation Spec Made Easy](https://medium.com/mobile-app-development-publication/android-jetpack-compose-animation-spec-made-easy-6e7990aef203)
+- [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
 
 ### Interop
 
 - [Jetpack Compose Interop Part 1](https://proandroiddev.com/jetpack-compose-interop-part-1-using-traditional-views-and-layouts-in-compose-with-androidview-b6f1b1c3eb1)
 - [Jetpack Compose Interop Part 2](https://proandroiddev.com/jetpack-compose-interop-part-2-using-compose-in-traditional-android-views-and-layouts-with-a3c50fc2eaa5)
 - [Jetpack Compose View & Android View Comparison](https://medium.com/mobile-app-development-publication/jetpack-compose-view-android-view-comparison-52005ac64b8c)
-- 🆕[](#29-10) [Adopting Jetpack Compose with Interop API](https://blog.yudiz.com/adopting-jetpack-compose-with-interop-api/)
+- [Adopting Jetpack Compose with Interop API](https://blog.yudiz.com/adopting-jetpack-compose-with-interop-api/)
 
 ### Migration
 - [Getting our apps ready for Jetpack Compose](https://joebirch.co/android/getting-our-apps-ready-for-jetpack-compose)
@@ -143,15 +143,15 @@
 
 ### Architecture
 - [Jetpack Compose navigation architecture with ViewModels](https://medium.com/@Syex/jetpack-compose-navigation-architecture-with-viewmodels-1de467f19e1c)
-- 🆕[](#29-10) [ViewModels using Compose: MutableStateFlows or MutableStates?](https://proandroiddev.com/viewmodels-using-compose-mutablestateflows-or-mutablestates-64d34ba548c5)
-- 🆕[](#29-10) [Better handling states between ViewModel and Composable](https://proandroiddev.com/better-handling-states-between-viewmodel-and-composable-7ca14af379cb)
-- 🆕[](#30-10) [Dagger 2 and Jetpack Compose Integration](https://proandroiddev.com/dagger-2-and-jetpack-compose-integration-8a8d424ffdb4)
+- [ViewModels using Compose: MutableStateFlows or MutableStates?](https://proandroiddev.com/viewmodels-using-compose-mutablestateflows-or-mutablestates-64d34ba548c5)
+- [Better handling states between ViewModel and Composable](https://proandroiddev.com/better-handling-states-between-viewmodel-and-composable-7ca14af379cb)
+- [Dagger 2 and Jetpack Compose Integration](https://proandroiddev.com/dagger-2-and-jetpack-compose-integration-8a8d424ffdb4)
 
 ### Side-Effects
 
 - [Jetpack Compose Side-Effects — LaunchedEffect](https://proandroiddev.com/jetpack-compose-side-effects-launchedeffect-59d2330d7834)
-- 🆕[](#29-10) [Jetpack Compose Side-Effects II — rememberCoroutineScope](https://proandroiddev.com/jetpack-compose-side-effects-ii-remembercoroutinescope-76104d7ff09)
-- 🆕[](#29-10) [Jetpack Compose Side-Effects III— rememberUpdatedState](https://proandroiddev.com/jetpack-compose-side-effects-iii-rememberupdatedstate-c8df7b90a01d)
+- [Jetpack Compose Side-Effects II — rememberCoroutineScope](https://proandroiddev.com/jetpack-compose-side-effects-ii-remembercoroutinescope-76104d7ff09)
+- [Jetpack Compose Side-Effects III— rememberUpdatedState](https://proandroiddev.com/jetpack-compose-side-effects-iii-rememberupdatedstate-c8df7b90a01d)
 
 ### Custom Composables
 
@@ -192,12 +192,13 @@
 - [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
 - [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
 - [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
+- 🆕[](#20-01-2022) [Jetpack Compose: Preview](https://alexzh.com/jetpack-compose-preview)
 
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
 
 ### Testings
-- 🆕[](#28-10) [KakaoCup/Compose](https://github.com/KakaoCup/Compose)
+- [KakaoCup/Compose](https://github.com/KakaoCup/Compose)
 - [Testing your Compose layout](https://developer.android.com/jetpack/compose/testing)
 - [How to test Jetpack Compose UI](https://dmytroshuba.com/blog/jetpack-compose-ui-testing/)
 
@@ -274,7 +275,7 @@
 ## Extras
 
 - [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) - Community-driven collection of Jetpack Compose example code and tutorials 🚀
-- 🆕[](#29-10) [Compose Modifiers Playground](https://plugins.jetbrains.com/plugin/16417-compose-modifiers-playground)
+- [Compose Modifiers Playground](https://plugins.jetbrains.com/plugin/16417-compose-modifiers-playground)
 
 ## Find this repository useful? ❤️
 
