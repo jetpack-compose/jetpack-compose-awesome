@@ -24,11 +24,9 @@
 
 ## 🔥 News/Updates
 
+* 15 January 2022 - [ConstraintLayout for Compose 1.0.0 Released](https://github.com/androidx/constraintlayout/wiki/What's-New-in-1.0-(Compose))
 * 4 August, 2021 - [Compose Multiplatform in Alpha](https://blog.jetbrains.com/kotlin/2021/08/compose-multiplatform-goes-alpha/)
 * 28 July, 2021 - Jetpack Compose 1.0 Released!
-* 1 June, 2021 - [Compose for Desktop: Milestone 4 Released](https://blog.jetbrains.com/kotlin/2021/06/compose-for-desktop-milestone-4-released/)
-* 4 May, 2021 - [Technology Preview: Jetpack Compose for Web](https://blog.jetbrains.com/kotlin/2021/05/technology-preview-jetpack-compose-for-web/)
-* 24 March, 2021 - [Accompanist v0.7.0 release](https://github.com/google/accompanist/releases/tag/v0.7.0)
 
 ##  Docs
 
