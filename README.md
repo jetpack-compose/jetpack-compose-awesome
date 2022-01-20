@@ -147,6 +147,9 @@
 - [Better handling states between ViewModel and Composable](https://proandroiddev.com/better-handling-states-between-viewmodel-and-composable-7ca14af379cb)
 - [Dagger 2 and Jetpack Compose Integration](https://proandroiddev.com/dagger-2-and-jetpack-compose-integration-8a8d424ffdb4)
 
+### Dependency Injection
+- 🆕[](#20-01-2022) [Koin for Compose proposal (Jetpack and Multiplatform)](https://medium.com/koin-developers/cokoin-injection-library-for-compose-jetpack-and-multiplatform-b041b36cac42)
+
 ### Side-Effects
 
 - [Jetpack Compose Side-Effects — LaunchedEffect](https://proandroiddev.com/jetpack-compose-side-effects-launchedeffect-59d2330d7834)
