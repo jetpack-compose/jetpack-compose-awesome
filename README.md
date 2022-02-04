@@ -67,6 +67,8 @@
 - [Cartographing Jetpack Compose: compiler and runtime](https://dev.to/tkuenneth/cartographing-jetpack-compose-compiler-and-runtime-1605)
 - [Focus in Jetpack Compose](https://medium.com/google-developer-experts/focus-in-jetpack-compose-6584252257fe)
 - [Browsing Jetpack Compose samples](https://dev.to/antonshilov/browsing-jetpack-compose-samples-32m6)
+- [Jetpack compose — Dependency injection with Dagger/HILT](https://blog.canopas.com/jetpack-compose-dependency-injection-with-dagger-hilt-9578be3cc1d0)
+- [Jetpack Compose: MVVM State management in a simple way](https://blog.canopas.com/jetpack-compose-mvvm-state-management-in-a-simple-way-4c632fa6f554)
 
 ### Getting started
 
@@ -129,6 +131,7 @@
 - [Animate with Jetpack Compose: Animate as State and Animation Specs](https://proandroiddev.com/animate-with-jetpack-compose-animate-as-state-and-animation-specs-ffc708bb45f8)
 - [Android Jetpack Compose: Animation Spec Made Easy](https://medium.com/mobile-app-development-publication/android-jetpack-compose-animation-spec-made-easy-6e7990aef203)
 - [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
+- [Animations in Jetpack Compose with examples](https://blog.canopas.com/animations-in-jetpack-compose-with-examples-48307ba9dff1)
 
 ### Interop
 
