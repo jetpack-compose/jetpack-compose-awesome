@@ -97,10 +97,12 @@
 ### Navigation
 **Libraries**
 - [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles
-- [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
-- [compose-navigation-reimagined](https://github.com/olshevski/compose-navigation-reimagined)
+- [compose-navigation-reimagined](https://github.com/olshevski/compose-navigation-reimagined) - A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose
+- [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
+- [compose-router](https://github.com/zsoltk/compose-router) - Routing functionality for Jetpack Compose with back stack
 
 **Articles**
+- [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
 - [Jetpack Compose: Navigation](https://www.rockandnull.com/jetpack-compose-navigation/)
 - [Passing multi typed data between screens with Jetpack Compose navigation component](https://proandroiddev.com/passing-multi-typed-data-between-screens-with-jetpack-compose-navigation-component-39ccbcf901ff)
 - [Passing string typed data with Jetpack Compose navigation component](https://proandroiddev.com/passing-string-typed-data-with-jetpack-compose-navigation-component-fd4759acd906)
