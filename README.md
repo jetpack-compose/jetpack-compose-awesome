@@ -194,7 +194,6 @@
 - [Modal Drawer Layout](https://joebirch.co/android/exploring-jetpack-compose-modal-drawer-layout/)
 - [TopAppBar](https://joebirch.co/android/exploring-jetpack-compose-topappbar/)
 
-
 ### Additional
 
 - [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
