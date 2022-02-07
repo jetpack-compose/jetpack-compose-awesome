@@ -132,6 +132,7 @@
 - [Android Jetpack Compose: Animation Spec Made Easy](https://medium.com/mobile-app-development-publication/android-jetpack-compose-animation-spec-made-easy-6e7990aef203)
 - [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
 - [Animations in Jetpack Compose with examples](https://blog.canopas.com/animations-in-jetpack-compose-with-examples-48307ba9dff1)
+- [Intro showcase view in Jetpack Compose — Android](https://blog.canopas.com/intro-showcase-view-in-jetpack-compose-ac044cd3bf28)
 
 ### Interop
 
@@ -193,6 +194,7 @@
 - [Modal Drawer Layout](https://joebirch.co/android/exploring-jetpack-compose-modal-drawer-layout/)
 - [TopAppBar](https://joebirch.co/android/exploring-jetpack-compose-topappbar/)
 
+
 ### Additional
 
 - [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
@@ -240,26 +242,28 @@
 
 ## Projects
 
-- [Jetpack Compose Samples](https://github.com/android/compose-samples) (**+7.7K** ⭐) - Official repository with samples by Google
-- [sunflower](https://github.com/android/sunflower/tree/compose) (**+14.2K** ⭐) - Sample app by Google 
-- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) (**+1.5K** ⭐)
-- [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) (**+1.2K** ⭐)
-- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) (**+700** ⭐)
-- [JetInstagram](https://github.com/vipulasri/JetInstagram) (**+390** ⭐) - Instagram clone app built with Jetpack Compose
-- [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator) (**+240** ⭐)
-- [flux](https://github.com/fidloo/flux) (**+230** ⭐) - A fake weather app 
-- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) (**+230** ⭐) -  A Quotes Application
-- [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) (**+190** ⭐) - 2048 implemented using Jetpack Compose
-- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) (**+170** ⭐) -  Chrome's Dino T-Rex game developed in Jetpack Compose
-- [JetExample](https://github.com/gastsail/JetExample) (**+140** ⭐) - Jetpack Compose UI components examples
-- [Wiggles](https://github.com/Spikeysanju/Wiggles) (**+130** ⭐) - Beautiful Puppy adoption app with Jetpack Compose
-- [Facebook-Timeline-Compose-Android](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android) (**+100** ⭐)
-- [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) (**+100** ⭐) - Demo app for a horizontal schedule(event) calendar
-- [jetpuppy](https://github.com/ericktijerou/jetpuppy) (**+40** ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
-- [Cheddar](https://github.com/adrianblancode/Cheddar) (**+60** ⭐) -  Hacker News reader
-- [jetpack-compose-samples](https://github.com/RajashekarRaju/jetpack-compose-samples) (**+17** ⭐) - Repository with collection of many compose samples.
-- [jettimer](https://github.com/ericktijerou/jettimer) (**+13** ⭐) - Timer app clone built with Jetpack Compose and Hilt
-- [Rebound](https://github.com/AnkitSuda/Rebound) (**1** ⭐) - Highly customizable and feature rich workout log app.
+- [Jetpack Compose Samples](https://github.com/android/compose-samples) (**+10.5K** ⭐) - Official repository with samples by Google
+- [sunflower](https://github.com/android/sunflower/tree/compose) (**+15.3K** ⭐) - Sample app by Google 
+- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) (**+2.1K** ⭐)
+- [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) (**+1.9K** ⭐)
+- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) (**+791** ⭐)
+- [JetInstagram](https://github.com/vipulasri/JetInstagram) (**+499** ⭐) - Instagram clone app built with Jetpack Compose
+- [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator) (**+272** ⭐)
+- [flux](https://github.com/fidloo/flux) (**+335** ⭐) - A fake weather app 
+- [JetQuotes](https://github.com/Spikeysanju/JetQuotes) (**+363** ⭐) -  A Quotes Application
+- [android-2048-compose](https://github.com/alexjlockwood/android-2048-compose) (**+255** ⭐) - 2048 implemented using Jetpack Compose
+- [DinoCompose](https://github.com/wajahatkarim3/DinoCompose) (**+198** ⭐) -  Chrome's Dino T-Rex game developed in Jetpack Compose
+- [JetExample](https://github.com/gastsail/JetExample) (**+192** ⭐) - Jetpack Compose UI components examples
+- [Wiggles](https://github.com/Spikeysanju/Wiggles) (**+256** ⭐) - Beautiful Puppy adoption app with Jetpack Compose
+- [Facebook-Timeline-Compose-Android](https://github.com/ahmed7official/Facebook-Timeline-Compose-Android) (**+119** ⭐)
+- [compose-schedule-calendar](https://github.com/halilozercan/compose-schedule-calendar) (**+142** ⭐) - Demo app for a horizontal schedule(event) calendar
+- [jetpuppy](https://github.com/ericktijerou/jetpuppy) (**+55** ⭐) - Jetpuppy is a puppy adoption app using Jetpack Compose UI.
+- [Cheddar](https://github.com/adrianblancode/Cheddar) (**+70** ⭐) -  Hacker News reader
+- [jetpack-compose-samples](https://github.com/RajashekarRaju/jetpack-compose-samples) (**+18** ⭐) - Repository with collection of many compose samples.
+- [jettimer](https://github.com/ericktijerou/jettimer) (**+26** ⭐) - Timer app clone built with Jetpack Compose and Hilt
+- [Rebound](https://github.com/AnkitSuda/Rebound) (**+7** ⭐) - Highly customizable and feature rich workout log app.
+- [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
+- [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 
 ## Compose Desktop Projects
 
