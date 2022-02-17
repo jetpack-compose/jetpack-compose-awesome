@@ -231,6 +231,7 @@
 - [compose-richtext](https://github.com/zach-klippenstein/compose-richtext) - A collection of Compose libraries for advanced text formatting.
 - [compose-ratingbar](https://github.com/a914-gowtham/compose-ratingbar) - Ratingbar for Jetpack Compose.
 - [tehras/charts](https://github.com/tehras/charts) - simple Android compose charts.
+- [compose-creditcardview](https://github.com/umutsoysl/ComposeCreditCardView) - CreditCardView for Jetpack Compose.
 - [info-bar-compose](https://github.com/radusalagean/info-bar-compose) - Display Snackbar-style messages, the easy way.
 - [shimmer](https://github.com/ValeryPonomarenko/compose-shimmer) - Shimmer effect
 - [compose-sliders](https://github.com/krottv/compose-sliders) - Custom Sliders (previously known as SeekBar) for jetpack compose
