@@ -237,6 +237,7 @@
 - [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose)  (**+50** ⭐) -  Animated dark mode toggle button with Jetpack Compose.
 - [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
 - 🆕[](#03-01-22) [Konfetti](https://github.com/DanielMartinus/Konfetti) - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
+- 🆕[](#25-02-22) [heart-switch](https://github.com/popovanton0/heart-switch) - ❤️ A heart-shaped toggle switch component for Jetpack Compose
 
 ### Navigation
 
