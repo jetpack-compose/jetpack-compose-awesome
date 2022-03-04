@@ -113,6 +113,7 @@
 
 ### UI Components
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
+- [Implement SSJetPackComposeProgressButton for different loading button animations.](https://medium.com/simform-engineering/progress-button-using-jetpack-compose-ssjetpackcomposeprogressbutton-fbc187d1370e)
 
 ### Lists/RecyclerView
 - [Jetpack Compose: An easy way to RecyclerView (Part I)](https://www.waseefakhtar.com/android/recyclerview-in-jetpack-compose/)
@@ -238,6 +239,9 @@
 - [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
 - 🆕[](#03-01-22) [Konfetti](https://github.com/DanielMartinus/Konfetti) - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
 - 🆕[](#25-02-22) [heart-switch](https://github.com/popovanton0/heart-switch) - ❤️ A heart-shaped toggle switch component for Jetpack Compose
+- 🆕[](#4-03-22) [ProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
+- 🆕[](#4-03-22) [SwipeAbleViews](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
+
 
 ### Navigation
 
@@ -270,6 +274,7 @@
 - [Rebound](https://github.com/AnkitSuda/Rebound) (**+7** ⭐) - Highly customizable and feature rich workout log app.
 - [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
 - [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
+- [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 
 ## Compose Desktop Projects
 
