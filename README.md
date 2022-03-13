@@ -113,7 +113,6 @@
 
 ### UI Components
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
-- [Implement SSJetPackComposeProgressButton for different loading button animations.](https://medium.com/simform-engineering/progress-button-using-jetpack-compose-ssjetpackcomposeprogressbutton-fbc187d1370e)
 
 ### Lists/RecyclerView
 - [Jetpack Compose: An easy way to RecyclerView (Part I)](https://www.waseefakhtar.com/android/recyclerview-in-jetpack-compose/)
