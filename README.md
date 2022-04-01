@@ -291,6 +291,7 @@
 - [Thinking in Compose](https://youtu.be/SMOhl9RK0BA)
 - [Compose for existing apps](https://youtu.be/PjQdFmiDgwk)
 - [What's new in Compose Design Tools](https://youtu.be/exjL2kGPngI)
+- [Jetpack Compose: MVVM State management in a simple way](https://youtu.be/KTvP27FpXd0)
 
 ## Extras
 
