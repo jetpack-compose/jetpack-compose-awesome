@@ -221,7 +221,7 @@
 - [Landscapist](https://github.com/skydoves/Landscapist) - image loading uding Glide, Coil, Fresco
 - [compose-icons](https://github.com/DevSrSouza/compose-icons) - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
-- [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/I10N (internationalization/localization) library for Jetpack Compose!
+- [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
 - [compose-markdown](https://github.com/jeziellago/compose-markdown) - Markdown Text for Android Jetpack Compose
 - [snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose
 
