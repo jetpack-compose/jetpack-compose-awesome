@@ -158,7 +158,7 @@
 - [Dagger 2 and Jetpack Compose Integration](https://proandroiddev.com/dagger-2-and-jetpack-compose-integration-8a8d424ffdb4)
 
 ### Dependency Injection
-- 🆕[](#20-01-2022) [Koin for Compose proposal (Jetpack and Multiplatform)](https://medium.com/koin-developers/cokoin-injection-library-for-compose-jetpack-and-multiplatform-b041b36cac42)
+- [Koin for Compose proposal (Jetpack and Multiplatform)](https://medium.com/koin-developers/cokoin-injection-library-for-compose-jetpack-and-multiplatform-b041b36cac42)
 
 ### Side-Effects
 
@@ -205,7 +205,7 @@
 - [Supporting different screen sizes on Android with Jetpack Compose](https://proandroiddev.com/supporting-different-screen-sizes-on-android-with-jetpack-compose-f215c13081bd)
 - [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
 - [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
-- 🆕[](#20-01-2022) [Jetpack Compose: Preview](https://alexzh.com/jetpack-compose-preview)
+- [Jetpack Compose: Preview](https://alexzh.com/jetpack-compose-preview)
 
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
@@ -236,11 +236,11 @@
 - [compose-sliders](https://github.com/krottv/compose-sliders) - Custom Sliders (previously known as SeekBar) for jetpack compose
 - [Dark-Toggle-Button-Sample-Jetpack-Compose](https://github.com/lcdsmao/Dark-Toggle-Button-Sample-Jetpack-Compose)  (**+50** ⭐) -  Animated dark mode toggle button with Jetpack Compose.
 - [Collection of UIs and Animations built with Jetpack Compose for Android](https://github.com/prafullmishra/JetComposer) - Collection of UIs and Animations built with Jetpack Compose for Android
-- 🆕[](#03-01-22) [Konfetti](https://github.com/DanielMartinus/Konfetti) - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
-- 🆕[](#25-02-22) [heart-switch](https://github.com/popovanton0/heart-switch) - ❤️ A heart-shaped toggle switch component for Jetpack Compose
-- 🆕[](#4-03-22) [ProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
-- 🆕[](#4-03-22) [SwipeAbleViews](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
-
+- [Konfetti](https://github.com/DanielMartinus/Konfetti) - Easily celebrate little and big moments in your app with this lightweight confetti particle system 🎊
+- [heart-switch](https://github.com/popovanton0/heart-switch) - ❤️ A heart-shaped toggle switch component for Jetpack Compose
+- [ProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
+- [SwipeAbleViews](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
+- 🆕[https://github.com/AndroidPoet/Dropdown](#12-05-22) [Dropdown] - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
 
 ### Navigation
 
