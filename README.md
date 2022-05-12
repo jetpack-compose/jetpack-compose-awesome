@@ -240,7 +240,7 @@
 - [heart-switch](https://github.com/popovanton0/heart-switch) - ❤️ A heart-shaped toggle switch component for Jetpack Compose
 - [ProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
 - [SwipeAbleViews](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
-- 🆕[https://github.com/AndroidPoet/Dropdown](#12-05-22) [Dropdown] - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
+- 🆕[](#12-05-22) [Dropdown](https://github.com/AndroidPoet/Dropdown) - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
 
 ### Navigation
 
