@@ -249,7 +249,8 @@
 - [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 
-## Projects
+
+## <a name="app-projects"></a> App Projects
 
 - [Jetpack Compose Samples](https://github.com/android/compose-samples) (**+10.5K** ⭐) - Official repository with samples by Google
 - [sunflower](https://github.com/android/sunflower/tree/compose) (**+15.3K** ⭐) - Sample app by Google 
@@ -284,7 +285,7 @@
 
 - [ComposeClock](https://github.com/adibfara/ComposeClock)
 
-## 📺 Videos
+## <a name="videos"></a> 📺 Videos
 
 - [Leland Richardson's channel about Compose](https://www.youtube.com/c/LelandRichardsonDev/videos)
 - [Compose by example](https://youtu.be/DDd6IOlH3io)
