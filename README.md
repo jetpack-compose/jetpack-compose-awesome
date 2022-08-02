@@ -41,6 +41,9 @@
 * [API Guidelines for Jetpack Compose](https://github.com/androidx/androidx/blob/androidx-main/compose/docs/compose-api-guidelines.md)
 * [Book: Jetpack Compose internals](https://leanpub.com/composeinternals)
 * [Jetpack Compose Collection](https://developersbreach.com/compose/)
+* [Android Basics with Compose Course](https://developer.android.com/courses/android-basics-compose/course)
+* [Compose performance Doc](https://developer.android.com/jetpack/compose/performance)
+
  
 ## Tools
 * [recompose](https://github.com/pocmo/recompose) -  A tool for converting Android layouts in XML to Kotlin code using Jetpack Compose. 
