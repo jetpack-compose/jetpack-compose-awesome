@@ -24,6 +24,7 @@
 
 ## 🔥 News/Updates
 
+* 11 May 2022 - [Announcing Compose for Wear OS Beta!](https://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html)
 * 15 January 2022 - [ConstraintLayout for Compose 1.0.0 Released](https://github.com/androidx/constraintlayout/wiki/What's-New-in-1.0-(Compose))
 * 4 August, 2021 - [Compose Multiplatform in Alpha](https://blog.jetbrains.com/kotlin/2021/08/compose-multiplatform-goes-alpha/)
 * 28 July, 2021 - Jetpack Compose 1.0 Released!
