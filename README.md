@@ -73,6 +73,7 @@
 - [Browsing Jetpack Compose samples](https://dev.to/antonshilov/browsing-jetpack-compose-samples-32m6)
 - [Jetpack compose — Dependency injection with Dagger/HILT](https://blog.canopas.com/jetpack-compose-dependency-injection-with-dagger-hilt-9578be3cc1d0)
 - [Jetpack Compose: MVVM State management in a simple way](https://blog.canopas.com/jetpack-compose-mvvm-state-management-in-a-simple-way-4c632fa6f554)
+- [Comparing Jetpack Compose performance with XML](https://medium.com/okcredit/comparing-jetpack-compose-performance-with-xml-9462a1282c6b)
 
 ### Getting started
 
@@ -104,6 +105,7 @@
 - [compose-navigation-reimagined](https://github.com/olshevski/compose-navigation-reimagined) - A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose
 - [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 - [compose-router](https://github.com/zsoltk/compose-router) - Routing functionality for Jetpack Compose with back stack
+- [Appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
 
 **Articles**
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
@@ -246,6 +248,7 @@
 - [SwipeAbleViews](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
 - [Dropdown](https://github.com/AndroidPoet/Dropdown) - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
 - 🆕[](#02-08-22) [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)
+- [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 
 ### Navigation
 
