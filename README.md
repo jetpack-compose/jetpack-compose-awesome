@@ -257,6 +257,8 @@
 - [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 
+### State Management
+- [compose-bloc](https://github.com/beyondeye/compose_bloc) - State Management and Navigation Library for Jetpack Compose
 
 ## <a name="app-projects"></a> App Projects
 
