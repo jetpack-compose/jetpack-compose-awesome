@@ -249,6 +249,7 @@
 - [Dropdown](https://github.com/AndroidPoet/Dropdown) - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
 - 🆕[](#02-08-22) [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)
 - [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
+- [Reveal](https://github.com/svenjacobs/reveal) - Reveal effect (also known as coach mark, onboarding, tutorial, etc.)
 
 ### Navigation
 
