@@ -249,7 +249,7 @@
 - [Dropdown](https://github.com/AndroidPoet/Dropdown) - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
 - 🆕[](#02-08-22) [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)
 - [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
-- [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) - Wheel Date - Time Picker for Jetpack Compose.
+- [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) - Wheel Date & Time Picker for Jetpack Compose.
 
 ### Navigation
 
