@@ -44,6 +44,7 @@
 * [Jetpack Compose Collection](https://developersbreach.com/compose/)
 * [Android Basics with Compose Course](https://developer.android.com/courses/android-basics-compose/course)
 * [Compose performance Doc](https://developer.android.com/jetpack/compose/performance)
+* [Jetpack Compose Component List](https://www.composables.com/components) – List of all components you can use in Jetpack Compose
 
  
 ## Tools
