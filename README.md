@@ -44,6 +44,7 @@
 * [Jetpack Compose Collection](https://developersbreach.com/compose/)
 * [Android Basics with Compose Course](https://developer.android.com/courses/android-basics-compose/course)
 * [Compose performance Doc](https://developer.android.com/jetpack/compose/performance)
+* [Jetpack Compose Component List](https://www.composables.com/components) – List of all components you can use in Jetpack Compose
 
  
 ## Tools
@@ -252,6 +253,7 @@
 - [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 - [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) - Wheel Date & Time Picker for Jetpack Compose.
 - [Exploding Composable](https://github.com/omkar-tenkale/ExplodingComposable) - A Jetpack Compose utility library to add explosive dust effect animation to any composable
+- [ComposeDynamicTheme](https://github.com/seyoungcho2/ComposeDynamicTheme) - Material design based Theme Management System for Jetpack Compose
 
 ### Navigation
 
