@@ -252,6 +252,7 @@
 - 🆕[](#02-08-22) [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)
 - [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 - [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) - Wheel Date & Time Picker for Jetpack Compose.
+- [Exploding Composable](https://github.com/omkar-tenkale/ExplodingComposable) - A Jetpack Compose utility library to add explosive dust effect animation to any composable
 - [ComposeDynamicTheme](https://github.com/seyoungcho2/ComposeDynamicTheme) - Material design based Theme Management System for Jetpack Compose
 
 ### Navigation
