@@ -226,7 +226,7 @@
 ## Libraries
 
 - [accompanist](https://github.com/chrisbanes/accompanist) -  A collection of extension libraries for Jetpack Compose
-- [Landscapist](https://github.com/skydoves/Landscapist) - image loading uding Glide, Coil, Fresco
+- [Landscapist](https://github.com/skydoves/Landscapist) - image loading using Glide, Coil, Fresco
 - [compose-icons](https://github.com/DevSrSouza/compose-icons) - Open Source icon packs for Jetpack Compose including Font Awesome, Simple Icons, Feather and more.
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 - [lyricist](https://github.com/adrielcafe/lyricist) - The missing I18N/L10N (internationalization/localization) library for Jetpack Compose!
