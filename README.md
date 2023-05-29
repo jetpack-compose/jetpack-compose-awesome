@@ -24,6 +24,7 @@
 
 ## 🔥 News/Updates
 
+* 24 May 2023 - [Compose 1.5.0-beta01](https://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html))
 * 07 Dec 2022 - [Compose for Wear OS 1.1 is now stable: check out new features!](https://android-developers.googleblog.com/2022/12/compose-for-wear-os-11-stable.html)
 * 11 May 2022 - [Announcing Compose for Wear OS Beta!](https://android-developers.googleblog.com/2022/05/announcing-compose-for-wear-os-beta.html)
 * 15 January 2022 - [ConstraintLayout for Compose 1.0.0 Released](https://github.com/androidx/constraintlayout/wiki/What's-New-in-1.0-(Compose))
@@ -76,6 +77,9 @@
 - [Jetpack compose — Dependency injection with Dagger/HILT](https://blog.canopas.com/jetpack-compose-dependency-injection-with-dagger-hilt-9578be3cc1d0)
 - [Jetpack Compose: MVVM State management in a simple way](https://blog.canopas.com/jetpack-compose-mvvm-state-management-in-a-simple-way-4c632fa6f554)
 - [Comparing Jetpack Compose performance with XML](https://medium.com/okcredit/comparing-jetpack-compose-performance-with-xml-9462a1282c6b)
+- 🆕[](#28-05-23) [🚀 Drawing edge to edge in Jetpack Compose](https://www.composables.com/tutorials/insets)
+- 🆕[](#28-05-23) [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a)
+- 🆕[](#28-05-23) [🚀 Every single type of Dialog in Jetpack Compose and how to use them](https://www.composables.com/tutorials/dialogs)
 
 ### Getting started
 
@@ -150,6 +154,8 @@
 - [Jetpack Compose — Reveal effect](https://dev.to/bmonjoie/jetpack-compose-reveal-effect-1fao)
 - [Animations in Jetpack Compose with examples](https://blog.canopas.com/animations-in-jetpack-compose-with-examples-48307ba9dff1)
 - [Intro showcase view in Jetpack Compose — Android](https://blog.canopas.com/intro-showcase-view-in-jetpack-compose-ac044cd3bf28)
+- 🆕[](#28-05-23) [Illuminating Interactions: Visual State in Jetpack Compose](https://medium.com/androiddevelopers/illuminating-interactions-visual-state-in-jetpack-compose-188fa041b791)
+- 🆕[](#28-05-23) [Creating Pager Animations in Jetpack Compose](https://www.sinasamaki.com/pager-animations/)
 
 ### Interop
 
@@ -252,11 +258,14 @@
 - [ProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) - SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
 - [SwipeAbleViews](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) - SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
 - [Dropdown](https://github.com/AndroidPoet/Dropdown) - A Powerful and customizable Jetpack Compose dropdown menu with cascade and animations
-- 🆕[](#02-08-22) [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)
+- [FloatingActionButton SpeedDial](https://github.com/leinardi/FloatingActionButtonSpeedDial)
 - [ComposeCalendar](https://github.com/boguszpawlowski/ComposeCalendar) - A Jetpack Compose library for handling calendar component rendering.
 - [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) - Wheel Date & Time Picker for Jetpack Compose.
 - [Exploding Composable](https://github.com/omkar-tenkale/ExplodingComposable) - A Jetpack Compose utility library to add explosive dust effect animation to any composable
 - [ComposeDynamicTheme](https://github.com/seyoungcho2/ComposeDynamicTheme) - Material design based Theme Management System for Jetpack Compose
+- 🆕[](#28-05-23) [minabox](https://github.com/oleksandrbalan/minabox) - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.
+- 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI
+- 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
 
 ## <a name="app-projects"></a> App Projects
 
@@ -283,6 +292,14 @@
 - [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
 - [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
+
+## Android TV
+
+- 🆕[](#28-05-23) [ComposeTv](https://github.com/UmairKhalid786/ComposeTv) - Android TV built using Jetpack Compose TV APIs
+
+## Multiplatform
+
+- 🆕[](#28-05-23) [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) - official website
 
 ## Compose Desktop Projects
 
