@@ -269,12 +269,12 @@
 
 ## <a name="app-projects"></a> App Projects
 
-- [Jetpack Compose Samples](https://github.com/android/compose-samples) (**+10.5K** ⭐) - Official repository with samples by Google
-- [sunflower](https://github.com/android/sunflower/tree/compose) (**+15.3K** ⭐) - Sample app by Google 
-- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) (**+2.1K** ⭐)
-- [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) (**+1.9K** ⭐)
-- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) (**+791** ⭐)
-- [JetInstagram](https://github.com/vipulasri/JetInstagram) (**+499** ⭐) - Instagram clone app built with Jetpack Compose
+- [Jetpack Compose Samples](https://github.com/android/compose-samples) (**+15.9K** ⭐) - Official repository with samples by Google
+- [sunflower](https://github.com/android/sunflower/tree/compose) (**+16.8K** ⭐) - Sample app by Google 
+- [Learn-Jetpack-Compose-By-Example](https://github.com/vinaygaba/Learn-Jetpack-Compose-By-Example) (**+2.9K** ⭐)
+- [Jetpack Compose Playground](https://github.com/Foso/Jetpack-Compose-Playground) (**+2.8K** ⭐)
+- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground) (**+870** ⭐)
+- [JetInstagram](https://github.com/vipulasri/JetInstagram) (**+689** ⭐) - Instagram clone app built with Jetpack Compose
 - [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator) (**+272** ⭐)
 - [flux](https://github.com/fidloo/flux) (**+335** ⭐) - A fake weather app 
 - [JetQuotes](https://github.com/Spikeysanju/JetQuotes) (**+363** ⭐) -  A Quotes Application
