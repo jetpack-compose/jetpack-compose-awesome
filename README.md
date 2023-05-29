@@ -107,6 +107,10 @@
 - [compose-navigation-reimagined](https://github.com/olshevski/compose-navigation-reimagined) - A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose
 - [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 - [Appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
+- [compose-router]() -  Routing functionality for Jetpack Compose with back stack
+[voyager](https://github.com/adrielcafe/voyager) - A pragmatic navigation library for Jetpack Compose
+- [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
+
 
 **Articles**
 - [Android Jetpack Compose: Navigation](https://proandroiddev.com/android-jetpack-compose-navigation-1cdfc488b891)
@@ -253,14 +257,6 @@
 - [WheelPickerCompose](https://github.com/commandiron/WheelPickerCompose) - Wheel Date & Time Picker for Jetpack Compose.
 - [Exploding Composable](https://github.com/omkar-tenkale/ExplodingComposable) - A Jetpack Compose utility library to add explosive dust effect animation to any composable
 - [ComposeDynamicTheme](https://github.com/seyoungcho2/ComposeDynamicTheme) - Material design based Theme Management System for Jetpack Compose
-
-### Navigation
-
-- [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
-[voyager](https://github.com/adrielcafe/voyager) - A pragmatic navigation library for Jetpack Compose
-- [multinavcompose](https://github.com/jeziellago/multinavcompose) - Android multi-module navigation built on top of Jetpack Navigation Compose
-- [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
-
 
 ## <a name="app-projects"></a> App Projects
 
