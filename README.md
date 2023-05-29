@@ -106,7 +106,6 @@
 - [Modo](https://github.com/terrakok/Modo) - Navigation library based on UDF principles
 - [compose-navigation-reimagined](https://github.com/olshevski/compose-navigation-reimagined) - A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose
 - [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
-- [compose-router](https://github.com/zsoltk/compose-router) - Routing functionality for Jetpack Compose with back stack
 - [Appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
 
 **Articles**
