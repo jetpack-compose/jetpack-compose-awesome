@@ -266,6 +266,7 @@
 - 🆕[](#28-05-23) [minabox](https://github.com/oleksandrbalan/minabox) - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.
 - 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI
 - 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
+- [Wavy Slider](https://github.com/mahozad/wavy-slider) - The squiggly dancing progress and slider introduced in Android 13
 
 ## <a name="app-projects"></a> App Projects
 
