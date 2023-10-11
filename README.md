@@ -266,6 +266,7 @@
 - 🆕[](#28-05-23) [minabox](https://github.com/oleksandrbalan/minabox) - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.
 - 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI
 - 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
+- [Jetpack Compose Country Code Picker Emoji](https://github.com/jump-sdk/jetpack_compose_country_code_picker_emoji) - A library for seamlessly selecting a country with emoji flag icons and automatically formatting international phone numbers, with advanced customization options and support for multiple languages.
 
 ## <a name="app-projects"></a> App Projects
 
