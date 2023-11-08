@@ -223,6 +223,7 @@
 - [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
 - [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
 - [Jetpack Compose: Preview](https://alexzh.com/jetpack-compose-preview)
+- [Improving performance with Compose Compiler Metrics](https://proandroiddev.com/jetpack-compose-tutorial-improving-performance-in-dribbble-audio-app-b19848cf12e3)
 
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
@@ -266,7 +267,8 @@
 - 🆕[](#28-05-23) [minabox](https://github.com/oleksandrbalan/minabox) - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.
 - 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI
 - 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
-- [Animated Navigation Bar](https://github.com/exyte/AndroidAnimatedNavigationBar) - A navigation bar with a number of preset animations
+- 🆕[](#08-11-23)[Animated Navigation Bar](https://github.com/exyte/AndroidAnimatedNavigationBar) - A navigation bar with a number of preset animations
+- 🆕[](#08-11-23)[Blueprint](https://github.com/popovanton0/Blueprint) - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## <a name="app-projects"></a> App Projects
 
