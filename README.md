@@ -267,7 +267,8 @@
 - 🆕[](#28-05-23) [minabox](https://github.com/oleksandrbalan/minabox) - Lazy box library for Jetpack Compose, which allows to display lazy loaded items on the 2D plane.
 - 🆕[](#28-05-23)[telephoto](https://github.com/saket/telephoto) - Building blocks for designing media experiences in Compose UI
 - 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
-- 🆕[](#10-09-23)[Blueprint](https://github.com/popovanton0/Blueprint) - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+- 🆕[](#08-11-23)[Animated Navigation Bar](https://github.com/exyte/AndroidAnimatedNavigationBar) - A navigation bar with a number of preset animations
+- 🆕[](#08-11-23)[Blueprint](https://github.com/popovanton0/Blueprint) - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 
 ## <a name="app-projects"></a> App Projects
 
