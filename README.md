@@ -223,6 +223,7 @@
 - [Measuring Render Performance with Jetpack Compose](https://engineering.premise.com/measuring-render-performance-with-jetpack-compose-c0bf5814933)
 - [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
 - [Jetpack Compose: Preview](https://alexzh.com/jetpack-compose-preview)
+- [Improving performance with Compose Compiler Metrics](https://proandroiddev.com/jetpack-compose-tutorial-improving-performance-in-dribbble-audio-app-b19848cf12e3)
 
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
