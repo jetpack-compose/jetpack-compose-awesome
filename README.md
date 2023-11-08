@@ -303,6 +303,7 @@
 ## Multiplatform
 
 - 🆕[](#28-05-23) [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) - official website
+- [Jetpack Compose Multiplatform Android & iOS](https://proandroiddev.com/jetpack-compose-multiplatform-android-ios-4a87ba417caa) - article about migrating to Jetpack Compose Multiplatform
 
 ## Compose Desktop Projects
 
