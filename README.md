@@ -128,6 +128,8 @@
 
 ### UI Components
 - [Implement Bottom Bar Navigation in Jetpack Compose](https://proandroiddev.com/implement-bottom-bar-navigation-in-jetpack-compose-b530b1cd9ee2)
+- [How to Use Render Effects in Jetpack Compose for Stunning Visuals](https://blog.canopas.com/how-to-use-render-effects-in-jetpack-compose-for-stunning-visuals-01287d7f00db)
+- [Gestures in Jetpack compose — All you need to know](https://medium.com/canopas/gestures-in-jetpack-compose-all-you-need-to-know-part-1-9d26570e56bb)
 
 ### Lists/RecyclerView
 - [Jetpack Compose: An easy way to RecyclerView (Part I)](https://www.waseefakhtar.com/android/recyclerview-in-jetpack-compose/)
@@ -271,6 +273,8 @@
 - 🆕[](#28-05-23)[Compose-Rich-Editor](https://github.com/MohamedRejeb/Compose-Rich-Editor) - A Rich text editor library for both Jetpack Compose and Compose Multiplatform,
 - 🆕[](#08-11-23)[Animated Navigation Bar](https://github.com/exyte/AndroidAnimatedNavigationBar) - A navigation bar with a number of preset animations
 - 🆕[](#08-11-23)[Blueprint](https://github.com/popovanton0/Blueprint) - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
+- [WYSIWYG Rich Editor Compose](https://github.com/canopas/rich-editor-compose) - Android WYSIWYG Rich editor for Jetpack compose.
+- [Animated BottomBar Compose](https://github.com/canopas/compose-animated-navigationbar) - A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.
 
 ## <a name="app-projects"></a> App Projects
 
