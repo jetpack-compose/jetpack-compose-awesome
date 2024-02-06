@@ -301,6 +301,7 @@
 - [Intro Showcase View](https://github.com/canopas/Intro-showcase-view) (**+15** ⭐) - An android library to highlight different features of the app built using Jetpack Compose.
 - [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
+- [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 
 ## Android TV
 
