@@ -275,6 +275,7 @@
 - 🆕[](#08-11-23)[Blueprint](https://github.com/popovanton0/Blueprint) - 📐 library that draws a blueprint on top of your Jetpack Compose composables. It visualizes dimensions, like paddings and sizes.
 - [WYSIWYG Rich Editor Compose](https://github.com/canopas/rich-editor-compose) - Android WYSIWYG Rich editor for Jetpack compose.
 - [Animated BottomBar Compose](https://github.com/canopas/compose-animated-navigationbar) - A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.
+- 🆕[](#01-04-24)[Navigation toggle icon](https://github.com/zTrap/navigation-toggle-icon) - Compose Multiplatform icon which have 3 states (burger, arrow and cross) and animated transitions between them
 
 ## <a name="app-projects"></a> App Projects
 
