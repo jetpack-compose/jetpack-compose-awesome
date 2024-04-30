@@ -55,6 +55,7 @@
 * [Radiography](https://developer.squareup.com/blog/introducing-radiography) - UI structure printer
 * [Showkase](https://github.com/airbnb/Showkase) - Helps you organize, discover, search and visualize Jetpack Compose UI elements
 * [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot) - A Twitter Bot to get all updates about Jetpack Compose in your feed
+* [Compose Color Preview](https://github.com/zTrap/compose-color-preview-plugin) - A plugin for the JetBrains IDE family that draws colored icons in the editor gutter and code completion popup based on colors from Jetpack and Multiplatform Compose
 
 ## Articles
 
