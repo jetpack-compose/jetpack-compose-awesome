@@ -55,6 +55,7 @@
 * [Radiography](https://developer.squareup.com/blog/introducing-radiography) - UI structure printer
 * [Showkase](https://github.com/airbnb/Showkase) - Helps you organize, discover, search and visualize Jetpack Compose UI elements
 * [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot) - A Twitter Bot to get all updates about Jetpack Compose in your feed
+* [Kelp Plugin](https://github.com/ozontech/kelp) - An Android Studio plugin that enhances support for custom design systems
 
 ## Articles
 
@@ -80,6 +81,7 @@
 - 🆕[](#28-05-23) [🚀 Drawing edge to edge in Jetpack Compose](https://www.composables.com/tutorials/insets)
 - 🆕[](#28-05-23) [Problem solving in Compose Text](https://medium.com/androiddevelopers/problem-solving-in-compose-text-d1dd1feafe4a)
 - 🆕[](#28-05-23) [🚀 Every single type of Dialog in Jetpack Compose and how to use them](https://www.composables.com/tutorials/dialogs)
+- 🆕[](#20-05-24) [Designing Slot APIs in Jetpack Compose](https://proandroiddev.com/designing-slot-apis-in-jetpack-compose-4a981ddbc776)
 
 ### Getting started
 
