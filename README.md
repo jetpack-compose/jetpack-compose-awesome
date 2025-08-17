@@ -305,6 +305,8 @@
 - [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
+- [Wonderous Compose](https://github.com/ShreyashKore/wonderous_compose) (**138** ⭐) - Wonderous Compose is a port of Wonderous in Compose Multiplatform.
+
 
 ## Android TV
 
