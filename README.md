@@ -248,6 +248,7 @@
 - 🆕[](#02-01-24) [compose-recyclerview](https://github.com/canopas/compose-recyclerview/tree/master) - A library that allows seamless integration of composables in RecyclerView, addressing performance concerns and LazyList issues. Enjoy improved rendering performance, built-in drag-and-drop support, flexible configuration, and easy handling of multiple item types for dynamic UIs.
 - [Reorderable](https://github.com/Calvin-LL/Reorderable) - Reorder items in Lists and Grids with drag and drop
 - [AutoLinkText](https://github.com/Calvin-LL/AutoLinkText) - Make links, emails, and phone numbers clickable in text
+- [SceneView](https://github.com/sceneview/sceneview) - The only Compose-native 3D & AR library. Declarative scene graph with 26+ node types (ModelNode, CubeNode, LightNode, etc.), Filament rendering, ARCore integration. ~5MB APK impact.
 
 ### UI
 
