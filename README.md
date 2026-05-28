@@ -306,6 +306,8 @@
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 
+- [Mythara](https://github.com/ankurCES/project_mythara) - Open-source local-first agentic AI OS layer for Android. 65+ on-device agent tools, multi-skin theme engine, on-device personality analysis. MIT.
+
 ## Android TV
 
 - 🆕[](#28-05-23) [ComposeTv](https://github.com/UmairKhalid786/ComposeTv) - Android TV built using Jetpack Compose TV APIs
