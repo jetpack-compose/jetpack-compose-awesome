@@ -305,6 +305,7 @@
 - [Jetpack-compose-animations-examples](https://github.com/canopas/Jetpack-compose-animations-examples) (**+4** ⭐) - Cool animations implemented with Jetpack Compose.
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
+- [OneBox](https://github.com/wangzhishou/OneBox) (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
 
 ## Android TV
 
