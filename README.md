@@ -227,6 +227,7 @@
 - [Understanding re-composition in Jetpack Compose with a case study](https://proandroiddev.com/understanding-re-composition-in-jetpack-compose-with-a-case-study-9e7d96d98095)
 - [Jetpack Compose: Preview](https://alexzh.com/jetpack-compose-preview)
 - [Improving performance with Compose Compiler Metrics](https://proandroiddev.com/jetpack-compose-tutorial-improving-performance-in-dribbble-audio-app-b19848cf12e3)
+- [Android UI Sounds in Kotlin: AudioTrack Without a Raw Resource](https://blipblip.click/android-ui-sounds)
 
 ### Cross-platform
 - [Fully cross-platform Kotlin applications (almost)](https://proandroiddev.com/fully-cross-platform-kotlin-applications-almost-29c7054f8f28)
