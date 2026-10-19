@@ -307,6 +307,8 @@
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 - [OneBox](https://github.com/wangzhishou/OneBox) (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
 
+- [Mythara](https://github.com/ankurCES/project_mythara) - Open-source local-first agentic AI OS layer for Android. 65+ on-device agent tools, multi-skin theme engine, on-device personality analysis. MIT.
+
 ## Android TV
 
 - 🆕[](#28-05-23) [ComposeTv](https://github.com/UmairKhalid786/ComposeTv) - Android TV built using Jetpack Compose TV APIs
