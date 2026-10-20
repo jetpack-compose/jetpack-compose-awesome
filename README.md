@@ -278,6 +278,7 @@
 - [WYSIWYG Rich Editor Compose](https://github.com/canopas/rich-editor-compose) - Android WYSIWYG Rich editor for Jetpack compose.
 - [Animated BottomBar Compose](https://github.com/canopas/compose-animated-navigationbar) - A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.
 - [YouTubePlayer](https://github.com/IlyaPavlovskii/YouTubePlayer) - YouTube kotlin multiplatform player. The YouTubePlayer composable allows you to embed a YouTube video player in your Jetpack Compose app.
+- [LiquidGlass](https://github.com/shayann07/liquidglass) - iOS 26-style Liquid Glass for Jetpack Compose and Compose Multiplatform, measured against iOS screen recordings: `Modifier.glassEffect`, glass Material 3 components and the iOS tab bar lens.
 
 ## <a name="app-projects"></a> App Projects
 
