@@ -310,6 +310,7 @@
 ## Android TV
 
 - 🆕[](#28-05-23) [ComposeTv](https://github.com/UmairKhalid786/ComposeTv) - Android TV built using Jetpack Compose TV APIs
+- [TMPlayer](https://github.com/dracu-lah/TMPlayer) (**50** ⭐) - Player for the videos already in your own Telegram chats on Android TV, Fire TV and phones, built with Compose for TV (tv-material) and Compose Multiplatform for the desktop. Unofficial, not affiliated with Telegram
 
 ## Multiplatform
 
