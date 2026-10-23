@@ -306,6 +306,7 @@
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 - [OneBox](https://github.com/wangzhishou/OneBox) (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
+- [Aster-Android](https://github.com/Aster-Privacy/Aster-Android) (**+50** ⭐) - End-to-end encrypted email app with post-quantum protection, PGP, aliases and custom domains
 
 ## Android TV
 
