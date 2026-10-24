@@ -248,7 +248,8 @@
 - 🆕[](#02-01-24) [compose-recyclerview](https://github.com/canopas/compose-recyclerview/tree/master) - A library that allows seamless integration of composables in RecyclerView, addressing performance concerns and LazyList issues. Enjoy improved rendering performance, built-in drag-and-drop support, flexible configuration, and easy handling of multiple item types for dynamic UIs.
 - [Reorderable](https://github.com/Calvin-LL/Reorderable) - Reorder items in Lists and Grids with drag and drop
 - [AutoLinkText](https://github.com/Calvin-LL/AutoLinkText) - Make links, emails, and phone numbers clickable in text
-
+- [matrix-rain-view](https://github.com/boy-offi9-inc/matrix-rain-view) - Matrix digital rain for Jetpack Compose and XML, drawn on a Canvas with runtime-configurable color, speed, density and glyph sets. No GIF or Lottie assets.
+  
 ### UI
 
 - [neumorphic-compose](https://github.com/CuriousNikhil/neumorphic-compose) - Neumorphism UI with Jetpack Compose. Just add simple `neumorphic()` modifier.
