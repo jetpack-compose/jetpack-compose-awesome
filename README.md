@@ -306,6 +306,7 @@
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 - [OneBox](https://github.com/wangzhishou/OneBox) (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
+- [Fud AI](https://github.com/apoorvdarshan/fud-ai) (**+490** ⭐) - AI calorie, macro and workout tracker: log meals from photos, barcodes, text or a realtime voice conversation with your own AI key, with Health Connect sync and Glance widgets. Published on Google Play
 
 ## Android TV
 
