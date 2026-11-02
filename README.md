@@ -278,6 +278,7 @@
 - [WYSIWYG Rich Editor Compose](https://github.com/canopas/rich-editor-compose) - Android WYSIWYG Rich editor for Jetpack compose.
 - [Animated BottomBar Compose](https://github.com/canopas/compose-animated-navigationbar) - A Jetpack Compose library that simplifies the creation of stylish Bottom Navigation Bars with customizable animations. It allows you to easily integrate attractive navigation bars into your Android app, enhancing the user experience.
 - [YouTubePlayer](https://github.com/IlyaPavlovskii/YouTubePlayer) - YouTube kotlin multiplatform player. The YouTubePlayer composable allows you to embed a YouTube video player in your Jetpack Compose app.
+- [compose-bottom-sheets](https://github.com/ThalzeronLabs/compose-bottom-sheets) - Material 3 bottom sheets as suspend functions: `confirm`, `choose`, date/time pickers and text input that return the user's answer.
 
 ## <a name="app-projects"></a> App Projects
 
@@ -306,6 +307,7 @@
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 - [OneBox](https://github.com/wangzhishou/OneBox) (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
+- [Shelf](https://github.com/ThalzeronLabs/compose-showcase) - Reading-list reference app: Compose, Hilt, Room, Retrofit + Moshi, Coil, Navigation, DataStore, screenshot tests.
 
 ## Android TV
 
