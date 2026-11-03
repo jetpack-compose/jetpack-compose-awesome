@@ -55,6 +55,7 @@
 * [Radiography](https://developer.squareup.com/blog/introducing-radiography) - UI structure printer
 * [Showkase](https://github.com/airbnb/Showkase) - Helps you organize, discover, search and visualize Jetpack Compose UI elements
 * [Jetpack Compose Twitter Bot](https://twitter.com/ComposeBot) - A Twitter Bot to get all updates about Jetpack Compose in your feed
+* [whatishipped](https://github.com/selan-ai/whatishipped) - A Claude Code skill that recreates a mobile app's UI as it ships: every screen, state, component and journey of an iOS or Android app, drawn from its code and checked against the app's own screenshots.
 
 ## Articles
 
