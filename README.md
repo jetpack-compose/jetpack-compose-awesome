@@ -248,6 +248,7 @@
 - 🆕[](#02-01-24) [compose-recyclerview](https://github.com/canopas/compose-recyclerview/tree/master) - A library that allows seamless integration of composables in RecyclerView, addressing performance concerns and LazyList issues. Enjoy improved rendering performance, built-in drag-and-drop support, flexible configuration, and easy handling of multiple item types for dynamic UIs.
 - [Reorderable](https://github.com/Calvin-LL/Reorderable) - Reorder items in Lists and Grids with drag and drop
 - [AutoLinkText](https://github.com/Calvin-LL/AutoLinkText) - Make links, emails, and phone numbers clickable in text
+- [compose-coverflow](https://github.com/pakohan/compose-coverflow) - highly customizable implementation of CoverFlow based on LazyRow.
 
 ### UI
 
