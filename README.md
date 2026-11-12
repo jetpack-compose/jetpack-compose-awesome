@@ -235,6 +235,7 @@
 - [KakaoCup/Compose](https://github.com/KakaoCup/Compose)
 - [Testing your Compose layout](https://developer.android.com/jetpack/compose/testing)
 - [How to test Jetpack Compose UI](https://dmytroshuba.com/blog/jetpack-compose-ui-testing/)
+- [e2e](https://github.com/e2e-inc/e2e) - End-to-end testing with natural-language agent steps and locator assertions, with a Jetpack Compose example.
 
 ## Libraries
 
