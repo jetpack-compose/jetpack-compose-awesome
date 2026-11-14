@@ -306,6 +306,7 @@
 - [ComposeCookbook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) (**+139** ⭐) - A Collection of major Jetpack compose UI components which are commonly used.
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 - [OneBox](https://github.com/wangzhishou/OneBox) (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
+- [ForgeMind](https://github.com/DIIIUA/ForgeMind) - Autonomous AI engineering workspace for Android built with Kotlin & Jetpack Compose Material 3: 56 built-in tools, Sora code editor with diffs, dual-pane SFTP, Termux/Cloudflare SSH, 8-tab agent browser, and bidirectional MCP (`GPL-3.0`)
 
 ## Android TV
 
