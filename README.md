@@ -247,6 +247,7 @@
 - [snapper](https://github.com/chrisbanes/snapper) - A snapping fling behavior for Jetpack Compose
 - 🆕[](#02-01-24) [compose-recyclerview](https://github.com/canopas/compose-recyclerview/tree/master) - A library that allows seamless integration of composables in RecyclerView, addressing performance concerns and LazyList issues. Enjoy improved rendering performance, built-in drag-and-drop support, flexible configuration, and easy handling of multiple item types for dynamic UIs.
 - [Reorderable](https://github.com/Calvin-LL/Reorderable) - Reorder items in Lists and Grids with drag and drop
+- [swipe-select-compose](https://github.com/Mironlive/swipe-select-compose) - Photos-style swipe to multi-select for LazyColumn and LazyVerticalGrid, with auto-scroll
 - [AutoLinkText](https://github.com/Calvin-LL/AutoLinkText) - Make links, emails, and phone numbers clickable in text
 
 ### UI
