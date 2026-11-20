@@ -307,6 +307,8 @@
 - [CoinWatch](https://github.com/shorthouse/CoinWatch) (**29** ⭐) - Delightful cryptocurrency app providing real-time coin prices, price histories, and market data
 - [OneBox](https://github.com/wangzhishou/OneBox) (**+490** ⭐) - A free AI agent & toolbox for Android: a built-in agent drives 90+ in-app tools, plus image, document & productivity utilities. Published on Google Play & F-Droid
 
+- [ChromaCircuit Starter](https://github.com/simple-free-apps/android-compose-puzzle-starter) - Five-level Kotlin and Jetpack Compose conduit puzzle game starter with Canvas rendering and EN/AR RTL support
+
 ## Android TV
 
 - 🆕[](#28-05-23) [ComposeTv](https://github.com/UmairKhalid786/ComposeTv) - Android TV built using Jetpack Compose TV APIs
