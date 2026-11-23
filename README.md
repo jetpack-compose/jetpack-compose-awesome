@@ -320,6 +320,7 @@
 
 - [Compose JB](https://github.com/JetBrains/compose-jb) - Jetpack Compose for Desktop and Web
 - [ComposeSlackDesktop](https://github.com/vipulasri/ComposeSlackDesktop) - A Slack demo app for desktop using Jetpack Compose
+- [Versiobit](https://versiobit.com/en/desktop-app/overview/) - A multi-platform desktop app for file sync and archiving/versioning. Implemented with Compose 1.6.
 
 ## Other projects
 
