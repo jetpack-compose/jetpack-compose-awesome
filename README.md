@@ -111,8 +111,8 @@
 - [compose-navigation-reimagined](https://github.com/olshevski/compose-navigation-reimagined) - A small and simple, yet fully fledged and customizable navigation library for Jetpack Compose
 - [compose-destinations](https://github.com/raamcosta/compose-destinations) - Annotation processing library for type-safe Jetpack Compose navigation with no boilerplate.
 - [Appyx](https://github.com/bumble-tech/appyx) - Model-driven navigation for Jetpack Compose
-- [compose-router]() -  Routing functionality for Jetpack Compose with back stack
-[voyager](https://github.com/adrielcafe/voyager) - A pragmatic navigation library for Jetpack Compose
+- [compose-router](https://github.com/zsoltk/compose-router) -  Routing functionality for Jetpack Compose with back stack
+- [voyager](https://github.com/adrielcafe/voyager) - A pragmatic navigation library for Jetpack Compose
 - [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) - Simple composable for rendering transitions between backstacks.
 
 
